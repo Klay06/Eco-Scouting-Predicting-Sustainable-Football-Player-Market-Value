@@ -6,7 +6,7 @@ df = pd.read_csv('players_full_data.csv')
 
 # 2. Remove players without valid ASR value
 if 'ASR' in df.columns:
-    df = df[~df['ASR'].astype(str).str.strip().isin(['', '-', 'N/A', 'nan'])]
+    df = df[~df['ASR'].astype(str).str.strip().isin(['', '-', 'N/A', 'nan','Not found'])]
 else:
     raise ValueError("❌ The dataset does not contain an 'ASR' column.")
 
