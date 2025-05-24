@@ -1,797 +1,797 @@
-Player Name,Age,Team,ASR,Nationality,Transfer History Count,MarketValue,missing_market_value,missing_transfers
-Abdu Conté,27,Young Boys,6.58,POR,5,750000,False,False
-Abduqodir Khusanov,21,Manchester City,7.01,UZB,3,11400000,False,False
-Abel Ruiz,25,Girona FC,6.65,ESP,5,5700000,False,False
-Achraf Hakimi,26,Paris Saint-Germain,7.63,MAR,5,62000000,False,False
-Adam Daghim,19,Red Bull Salzburg,6.97,DEN,4,5400000,False,False
-Adam Idah,24,Celtic,6.89,IRL,4,5000000,False,False
-Adamo Nagalo,22,PSV Eindhoven,6.75,BUR,2,7200000,False,False
-Ademola Lookman,27,Atalanta,7.34,NGR,5,66000000,False,False
-Adrian Bajrami,23,Benfica,7.04,ALB,2,1600000,False,False
-Adrián Niño,20,Atlético Madrid B,6.91,ESP,1,745000,False,False
-Afonso Moreira,20,Sporting CP B,6.78,POR,4,370000,False,False
-Aidan Borland,18,Aston Villa U21,7.03,SCO,0,6400000,True,False
-Aitor Gismera,21,Atlético Madrid B,6.77,ESP,1,265000,False,False
-Alaa Ghram,23,Shakhtar Donetsk,6.45,TUN,2,1600000,False,False
-Aladji Bamba,18,AS Monaco U19,6.20,FRA,0,6400000,True,False
-Alberto Costa,21,Juventus,7.08,POR,3,9300000,False,False
-Alberto Manzoni,19,Atalanta U20,6.89,ITA,0,1100000,False,False
-Aleix García,27,Bayer 04 Leverkusen,7.16,ESP,5,21000000,False,False
-Alejandro Balde,21,Barcelona,6.93,ESP,2,66000000,False,False
-Alejandro Francés,22,Girona FC,6.82,ESP,2,2300000,False,False
-Alejandro Iturbe,21,Atlético Madrid B,7.00,ESP,1,1900000,False,False
-Aleksandar Andreev,19,Girona U19,-,BUL,1,6400000,True,False
-Aleksandar Katai,34,FK Crvena zvezda,7.55,SRB,5,830000,False,False
-Aleksandr Golovin,28,AS Monaco,7.10,RUS,2,24000000,False,False
-Alen Mustafić,25,ŠK Slovan Bratislava,6.85,BIH,5,280000,False,False
-Alessandro Bastoni,26,Inter,7.17,ITA,5,75000000,False,False
-Alessandro Calligaris,20,Inter U20,6.98,ITA,0,245000,False,False
-Alessandro Florenzi,34,Milan,7.03,ITA,5,1400000,False,False
-Alexandar Borković,25,SK Sturm Graz,7.13,AUT,5,430000,False,False
-Alexander Bah,27,Benfica,7.10,DEN,5,12700000,False,False
-Alexander Meyer,34,Borussia Dortmund,6.88,GER,5,760000,False,False
-Alexander Nübel,28,VfB Stuttgart,6.82,GER,5,10900000,False,False
-Alexandre Brito,19,Sporting CP B,6.85,POR,1,6400000,True,False
-Alexej Maroš,20,ŠK Slovan Bratislava B U21,5.70,SVK,1,68000,False,False
-Alexis Mac Allister,26,Liverpool,7.23,ARG,5,99000000,False,False
-Alexis Olmedo,19,Barcelona Atlètic,6.93,ESP,0,195000,False,False
-Alexsandro Ribeiro,25,Lille,7.16,BRA,4,15500000,False,False
-Ali Al Musrati,20,Al Ahli Tripoli,-,LBA,1,6400000,True,False
-Alisson Santana,19,Shakhtar Donetsk,6.75,BRA,2,9700000,False,False
-Alistair Johnston,26,Celtic,7.42,CAN,4,9500000,False,False
-Almugera Kabar,19,Borussia Dortmund,6.67,GER,2,1000000,False,False
-Alphonso Davies,24,FC Bayern München,7.23,CAN,3,49000000,False,False
-Amadou Haïdara,27,RB Leipzig,6.84,MLI,4,19400000,False,False
-Amady Camara,19,SK Sturm Graz,6.66,MLI,2,1500000,False,False
-Amara Nallo,18,Liverpool U21,5.75,ENG,0,870000,False,False
-Ameen Al-Dakhil,23,VfB Stuttgart,6.75,BEL,5,7700000,False,False
-Amine Adli,25,Bayer 04 Leverkusen,6.88,MAR,2,19900000,False,False
-Amine Et-Taibi,22,Club NXT U23,6.82,MAR,1,390000,False,False
-Ander Astralaga,21,Barcelona Atlètic,7.20,ESP,1,835000,False,False
-Andrea Belotti,31,Benfica,6.82,ITA,5,1900000,False,False
-Andrea Cambiaso,25,Juventus,6.93,ITA,5,42000000,False,False
-Andrea Natali,17,Bayer Leverkusen U19,7.35,ITA,1,6400000,True,False
-Andreas Christensen,29,Barcelona,6.84,DEN,4,14400000,False,False
-Andrei Coubiș,21,Milan Futuro,6.80,ROU,0,105000,False,False
-Andrej Mikoláš,20,ŠK Slovan Bratislava B U21,-,SVK,1,26000,False,False
-Andrej Đurić,21,FK Crvena zvezda,6.83,MNE,5,515000,False,False
-Andri Baldursson,23,Bologna,7.00,ISL,5,930000,False,False
-Andrija Maksimović,17,FK Crvena zvezda,7.12,SRB,1,9600000,False,False
-Andriy Lunin,26,Real Madrid,7.19,UKR,5,18800000,False,False
-André Gomes,31,Lille,6.81,POR,4,7700000,False,False
-Andrés Cuenca,17,Barcelona Atlètic,6.72,ESP,1,185000,False,False
-Andrés García,22,Aston Villa,6.90,ESP,3,7600000,False,False
-Angel Gomes,24,Lille,6.86,ENG,5,22000000,False,False
-Anis Hadj Moussa,23,Feyenoord,7.02,ALG,5,12400000,False,False
-Anrie Chase,21,VfB Stuttgart,6.77,JPN,1,3800000,False,False
-Ansu Fati,22,Barcelona,6.69,ESP,4,5200000,False,False
-Antoine Griezmann,34,Atlético Madrid,7.31,FRA,5,21000000,False,False
-Anton Glushchenko,21,Shakhtar Donetsk,6.63,UKR,2,190000,False,False
-Antoni Milambo,20,Feyenoord,6.94,NED,3,16500000,False,False
-Antonio Gomis,21,Atlético Madrid B,7.03,ESP,1,165000,False,False
-Antonio Nusa,20,RB Leipzig,6.96,NOR,3,27000000,False,False
-António Silva,21,Benfica,7.11,POR,1,34000000,False,False
-Arbër Hoxha,26,GNK Dinamo Zagreb,6.76,ALB,5,1500000,False,False
-Arda Güler,20,Real Madrid,7.22,TUR,2,43000000,False,False
-Ardian Bajrami,21,Young Boys,6.83,SUI,1,190000,False,False
-Ardon Jashari,22,Club Brugge KV,7.13,SUI,2,24000000,False,False
-Arijan Ademi,33,GNK Dinamo Zagreb,6.93,MKD,5,485000,False,False
-Arjan Malić,19,SK Sturm Graz,6.67,BIH,2,830000,False,False
-Arkadiusz Milik,31,Juventus,6.87,POL,5,2100000,False,False
-Armando Obispo,26,PSV Eindhoven,6.77,NED,3,3300000,False,False
-Arnau Martínez,22,Girona FC,6.93,ESP,3,10800000,False,False
-Arnau Tenas,23,Paris Saint-Germain,7.30,ESP,2,4400000,False,False
-Arnaut Danjuma,28,Girona FC,6.88,NED,5,4700000,False,False
-Arne Engels,21,Celtic,7.30,BEL,2,12400000,False,False
-Artem Bondarenko,24,Shakhtar Donetsk,7.18,UKR,3,10800000,False,False
-Artero,22,Girona B,6.62,ESP,1,210000,False,False
-Arthur Cabral,27,Benfica,6.74,BRA,5,12400000,False,False
-Arthur Melo,8,PFC EF U8,Not found,BRA,0,6400000,True,False
-Atakan Karazor,28,VfB Stuttgart,7.10,TUR,3,13100000,False,False
-Axel Disasi,27,Aston Villa,6.91,FRA,5,26000000,False,False
-Axl De Corte,19,Club NXT U23,6.72,BEL,0,385000,False,False
-Ayman Azhil,24,Borussia Dortmund II U23,6.75,MAR,3,630000,False,False
-Ayyoub Bouaddi,17,Lille,6.73,FRA,0,33000000,False,False
-Azpilicueta,35,Atlético Madrid,6.87,ESP,5,1700000,False,False
-Aïssa Mandi,33,Lille,6.84,ALG,4,1600000,False,False
-Bafodé Diakité,24,Lille,6.98,FRA,2,23000000,False,False
-Bart Nieuwkoop,29,Feyenoord,6.76,NED,5,2700000,False,False
-Bartol Franjić,25,GNK Dinamo Zagreb,7.05,CRO,5,1900000,False,False
-Belmin Beganović,20,Sturm Graz II,7.13,AUT,3,455000,False,False
-Ben Broggio,18,Aston Villa U21,7.03,ENG,0,6400000,True,False
-Ben Hawighorst,17,Bayer Leverkusen U19,6.20,GER,0,6400000,True,False
-Benjamin André,34,Lille,7.11,FRA,3,6200000,False,False
-Benjamin Boakye,20,VfB Stuttgart II U21,6.73,GER,1,430000,False,False
-Benjamin Henrichs,28,RB Leipzig,6.82,GER,5,18400000,False,False
-Benjamín Domínguez,21,Bologna,6.83,ARG,3,15600000,False,False
-Berat Djimsiti,32,Atalanta,7.08,ALB,5,8700000,False,False
-Bernardo Silva,30,Manchester City,7.10,POR,5,43000000,False,False
-Biel,24,Sporting,6.89,BRA,5,4900000,False,False
-Bjorn Meijer,22,Club Brugge KV,6.91,NED,2,4700000,False,False
-Bobby Clark,20,Red Bull Salzburg,6.85,ENG,1,8800000,False,False
-Bojan Miovski,25,Girona FC,6.78,MKD,5,2900000,False,False
-Borja Garcés,25,Atlético Madrid B,6.58,ESP,10,535000,False,False
-Boubacar Kamara,25,Aston Villa,6.85,FRA,3,37000000,False,False
-Bradel Kiwa,19,AS Monaco,5.80,FRA,0,6400000,True,False
-Bradley Barcola,22,Paris Saint-Germain,7.23,FRA,3,68000000,False,False
-Bradley Burrowes,17,Aston Villa U18,6.81,ENG,0,6400000,True,False
-Bradley Locko,23,Stade Brestois,6.40,FRA,4,9300000,False,False
-Brahim Díaz,25,Real Madrid,6.91,MAR,5,47000000,False,False
-Brandon Mechele,32,Club Brugge KV,7.24,BEL,3,3300000,False,False
-Brayden Clarke,17,Arsenal U18,-,WAL,0,6400000,True,False
-Breel Embolo,28,AS Monaco,6.85,SUI,5,10900000,False,False
-Bremer,28,Juventus,7.53,BRA,3,47000000,False,False
-Brendan Chardonnet,30,Stade Brestois,7.05,FRA,3,6200000,False,False
-Bruma,30,Benfica,7.25,POR,5,8600000,False,False
-Bruno Duarte,29,FK Crvena zvezda,7.18,BRA,5,3800000,False,False
-Bryan Gil,24,Girona FC,6.99,ESP,5,15500000,False,False
-Bryan Okoh,22,FC Liefering,7.12,SUI,5,620000,False,False
-Caio Henrique,27,AS Monaco,7.04,BRA,5,14300000,False,False
-Callum McGregor,31,Celtic,7.28,SCO,3,6000000,False,False
-Cameron Carter-Vickers,27,Celtic,7.28,USA,5,15000000,False,False
-Caoimhín Kelleher,26,Liverpool,7.04,IRL,1,19800000,False,False
-Carlos Augusto,26,Inter,6.94,BRA,5,21000000,False,False
-Carlos Giménez,22,Atlético Madrid B,6.62,ESP,4,270000,False,False
-Carney Chukwuemeka,21,Borussia Dortmund,6.89,ENG,4,13600000,False,False
-Casper Nielsen,31,Club Brugge KV,6.78,DEN,4,2700000,False,False
-Castello Lukeba,22,RB Leipzig,6.93,FRA,3,49000000,False,False
-Cedric Itten,28,Young Boys,6.90,SUI,5,1800000,False,False
-Charalampos Lykogiannis,31,Bologna,7.07,GRE,5,1500000,False,False
-Charles De Ketelaere,24,Atalanta,7.24,BEL,5,35000000,False,False
-Chema Andrés,20,Real Madrid Castilla,6.92,ESP,1,485000,False,False
-Cherif Ndiaye,29,FK Crvena zvezda,7.23,SEN,5,4300000,False,False
-Chris Bedia,29,Young Boys,6.81,CIV,14,2600000,False,False
-Chris Führich,27,VfB Stuttgart,7.00,GER,5,17500000,False,False
-Chris-Kévin Nadje,23,Feyenoord,6.59,CIV,3,1500000,False,False
-Christian Fassnacht,31,Young Boys,7.16,SUI,9,2100000,False,False
-Christian Mawissa,20,AS Monaco,6.53,FRA,1,11000000,False,False
-Christian McFarlane,18,Manchester City U21,6.40,ENG,2,1900000,False,False
-Christoph Baumgartner,25,RB Leipzig,6.83,AUT,3,15600000,False,False
-Christopher Olivier,19,VfB Stuttgart II U21,6.73,AUT,1,460000,False,False
-Christos Alexiou,19,Inter U20,6.97,GRE,0,385000,False,False
-Chuba Akpom,29,Lille,6.93,ENG,5,7700000,False,False
-Claudio Echeverri,19,Manchester City,7.00,ARG,5,17200000,False,False
-Clément Lenglet,29,Atlético Madrid,7.02,FRA,5,7800000,False,False
-Cody Gakpo,26,Liverpool,7.26,NED,2,67000000,False,False
-Colby Donovan,18,Celtic B U21,7.30,SCO,0,6400000,True,False
-Cole Campbell,19,Borussia Dortmund,7.10,USA,1,1400000,False,False
-Conor Bradley,21,Liverpool,6.83,NIR,2,27000000,False,False
-Conor Gallagher,25,Atlético Madrid,6.88,ENG,5,39000000,False,False
-Conrad Harder,20,Sporting,6.98,DEN,2,26000000,False,False
-Couhaib Driouech,23,PSV Eindhoven,6.93,MAR,3,4700000,False,False
-Curtis Jones,24,Liverpool,6.95,ENG,1,48000000,False,False
-César Blackman,27,ŠK Slovan Bratislava,6.87,PAN,2,2600000,False,False
-Daizen Maeda,27,Celtic,7.12,JPN,11,10700000,False,False
-Daley Blind,35,Girona FC,7.03,NED,5,2100000,False,False
-Dan Ndoye,24,Bologna,7.13,SUI,5,24000000,False,False
-Dane Murray,21,Celtic B U21,6.93,SCO,3,145000,False,False
-Dani Carvajal,33,Real Madrid,7.27,ESP,3,9700000,False,False
-Dani Ceballos,28,Real Madrid,7.06,ESP,5,10500000,False,False
-Dani Olmo,27,Barcelona,7.22,ESP,4,58000000,False,False
-Dani Rodríguez,19,Barcelona Atlètic,7.07,ESP,1,105000,False,False
-Daniel Bragança,25,Sporting,7.06,POR,3,10900000,False,False
-Daniel Cummings,19,Celtic B U21,6.15,SCO,0,6400000,True,False
-Daniel Maldini,23,Atalanta,6.73,ITA,5,10600000,False,False
-Daniel Yáñez,18,Real Madrid Castilla,6.94,ESP,0,160000,False,False
-Daniil Khudyakov,21,SK Sturm Graz,6.80,RUS,3,970000,False,False
-Danylo Ignatenko,28,ŠK Slovan Bratislava,6.86,UKR,5,1500000,False,False
-Daouda Guindo,22,Red Bull Salzburg,6.91,MLI,5,3100000,False,False
-Darian Maleš,24,Young Boys,6.91,SUI,5,2600000,False,False
-Dario Marzino,28,Young Boys,6.50,SUI,3,24000,False,False
-Darwin Núñez,25,Liverpool,6.77,URU,4,45000000,False,False
-David Alaba,32,Real Madrid,6.62,AUT,5,9000000,False,False
-David Jiménez,21,Real Madrid,7.21,ESP,2,315000,False,False
-David Lelle,22,Borussia Dortmund II U23,6.84,GER,3,185000,False,False
-David López,35,Girona FC,6.85,ESP,5,1800000,False,False
-David Murar,21,ŠK Slovan Bratislava B U21,-,SVK,1,46000,False,False
-David Raya,29,Arsenal,7.03,ESP,5,43000000,False,False
-David Đurić,19,FK Crvena zvezda U19,6.85,SRB,0,155000,False,False
-Davide Bartesaghi,19,Milan Futuro,7.40,ITA,0,1100000,False,False
-Davide Calabria,28,Bologna,Not found,ITA,3,8100000,False,False
-Davide Frattesi,25,Inter,6.76,ITA,5,29000000,False,False
-Dawda Camara,22,Girona B,6.50,MTN,1,6400000,True,False
-Dedryck Boyata,34,Senza squadra,6.62,BEL,4,6400000,True,False
-Denilson Santos,18,Sporting CP B,6.75,POR,1,6400000,True,False
-Denzel Dumfries,29,Inter,7.12,NED,5,29000000,False,False
-Diego Aguado,18,Real Madrid U19,7.19,ESP,0,1100000,False,False
-Diego Arroyo,20,Shakhtar Donetsk,6.93,BOL,3,515000,False,False
-Diego Callai,20,Sporting CP B,-,BRA,4,1100000,False,False
-Diego Kochen,19,Barcelona Atlètic,7.11,USA,1,455000,False,False
-Dimitri Lavalée,28,SK Sturm Graz,6.94,BEL,5,4100000,False,False
-Diogo Jota,28,Liverpool,6.75,POR,5,44000000,False,False
-Diogo Pinto,20,Sporting,-,POR,1,515000,False,False
-Diogo Prioste,21,Benfica B,7.07,POR,1,1600000,False,False
-Divin Mubama,20,Manchester City U21,6.85,ENG,1,3700000,False,False
-Djomar Giersthove,20,Feyenoord U21,6.35,NED,0,6400000,True,False
-Dmytro Kryskiv,24,Shakhtar Donetsk,6.83,UKR,3,6700000,False,False
-Donyell Malen,26,Aston Villa,6.76,NED,4,27000000,False,False
-Dorgeles Nene,22,Red Bull Salzburg,7.23,MLI,5,8400000,False,False
-Douglas Luiz,27,Juventus,6.82,BRA,5,41000000,False,False
-Dávid Hancko,27,Feyenoord,7.13,SVK,5,33000000,False,False
-Désiré Doué,19,Paris Saint-Germain,7.33,FRA,2,62000000,False,False
-Ebenezer Annan,22,FK Crvena zvezda,7.14,GHA,5,1200000,False,False
-Ebrima Colley,25,Young Boys,6.85,GAM,5,1900000,False,False
-Edan Diop,20,AS Monaco,6.53,FRA,2,1400000,False,False
-Eder Militão,27,Real Madrid,7.17,BRA,3,42000000,False,False
-Ederson,31,Manchester City,6.98,BRA,4,23000000,False,False
-Edimilson Fernandes,29,Stade Brestois,6.65,SUI,5,3800000,False,False
-Edmund Baidoo,19,Red Bull Salzburg,7.02,GHA,2,2900000,False,False
-Eduardo Camavinga,22,Real Madrid,7.08,FRA,3,67000000,False,False
-Eduardo Felicíssimo,18,Sporting,6.76,POR,1,970000,False,False
-Eduardo Quaresma,23,Sporting,6.98,POR,5,14900000,False,False
-Eguinaldo,20,Shakhtar Donetsk,6.87,BRA,2,2900000,False,False
-El Chadaïlle Bitshiabu,20,RB Leipzig,6.92,FRA,2,11600000,False,False
-Elias Benkara,18,Borussia Dortmund U19,6.70,GER,0,6400000,True,False
-Elias Cobbaut,27,AC Sparta Praha,6.71,BEL,5,2600000,False,False
-Eliesse Ben Seghir,20,AS Monaco,7.03,MAR,1,31000000,False,False
-Eliot Bujupi,18,VfB Stuttgart II U21,6.90,KOS,1,485000,False,False
-Emanuel Aiwu,24,SK Sturm Graz,6.80,AUT,5,2900000,False,False
-Emerson Royal,26,Milan,6.96,BRA,5,10800000,False,False
-Emil Holm,25,Bologna,7.09,SWE,5,7200000,False,False
-Emiliano Buendia,28,Bayer 04 Leverkusen,6.82,ARG,5,16500000,False,False
-Emiliano Martínez,32,Aston Villa,7.14,ARG,5,24000000,False,False
-Emir Karic,27,SK Sturm Graz,6.65,AUT,4,720000,False,False
-Emre Can,31,Borussia Dortmund,6.95,GER,5,7500000,False,False
-Endrick,18,Real Madrid,6.79,BRA,2,42000000,False,False
-Enzo Millot,22,VfB Stuttgart,6.93,FRA,2,32000000,False,False
-Eric Dier,31,FC Bayern München,7.06,ENG,4,7200000,False,False
-Eric García,24,Barcelona,6.84,ESP,4,14600000,False,False
-Erling Haaland,24,Manchester City,7.24,NOR,5,218000000,False,False
-Ermal Krasniqi,26,AC Sparta Praha,6.84,KOS,5,1900000,False,False
-Ermedin Demirović,27,VfB Stuttgart,6.90,BIH,5,20000000,False,False
-Esmir Bajraktarević,20,PSV Eindhoven,6.96,BIH,2,3600000,False,False
-Estanis Pedrola,21,Bologna,6.81,ESP,5,1700000,False,False
-Ethan Mbappé,18,Lille,6.72,FRA,1,4900000,False,False
-Ethan Nwaneri,18,Arsenal,6.99,ENG,1,53000000,False,False
-Ezri Konsa,27,Aston Villa,6.94,ENG,3,37000000,False,False
-Fabian Bredlow,30,VfB Stuttgart,6.70,GER,5,1000000,False,False
-Fabián Ruiz,29,Paris Saint-Germain,7.24,ESP,5,34000000,False,False
-Facinet Conté,20,Young Boys,6.86,GUI,2,765000,False,False
-Facu González,21,Feyenoord,6.59,URU,5,4100000,False,False
-Fallou Faye,19,NK Kustošija,-,SEN,0,6400000,True,False
-Fally Mayulu,22,SK Sturm Graz,6.67,FRA,5,2900000,False,False
-Farid Alfa-Ruprecht,19,Manchester City U21,7.20,GER,0,6400000,True,False
-Federico Cassa,19,Atalanta U23,7.70,ITA,0,775000,False,False
-Federico Chiesa,27,Liverpool,6.75,ITA,5,16500000,False,False
-Federico Dimarco,27,Inter,7.24,ITA,5,58000000,False,False
-Federico Gatti,26,Juventus,6.99,ITA,5,24000000,False,False
-Felix Nmecha,24,Borussia Dortmund,7.04,GER,2,27000000,False,False
-Ferland Mendy,29,Real Madrid,6.75,FRA,5,19100000,False,False
-Fermín,22,Barcelona,6.95,ESP,3,52000000,False,False
-Fernando Dickes,17,RB Leipzig U19,6.20,GER,0,6400000,True,False
-Ferran Torres,25,Barcelona,7.09,ESP,5,30000000,False,False
-Ferrán,25,Barcelona,7.09,ESP,5,30000000,False,False
-Ferrán Jutglà,26,Club Brugge KV,7.06,ESP,5,8000000,False,False
-Filippo Mané,20,Borussia Dortmund,6.78,ITA,2,580000,False,False
-Finn Jeltsch,18,VfB Stuttgart,6.86,GER,2,10900000,False,False
-Florentino,25,Benfica,7.09,POR,5,21000000,False,False
-Folarin Balogun,23,AS Monaco,6.74,USA,5,18200000,False,False
-Fran García,25,Real Madrid,6.95,ESP,5,13800000,False,False
-Francesco Acerbi,37,Inter,7.10,ITA,5,2900000,False,False
-Francesco Camarda,17,Milan,6.82,ITA,0,10300000,False,False
-Francisco Conceição,22,Juventus,6.98,POR,5,34000000,False,False
-Franco Israel,25,Sporting,6.96,URU,2,5800000,False,False
-Fredrik Aursnes,29,Benfica,7.07,NOR,4,18700000,False,False
-Frenkie de Jong,28,Barcelona,6.98,NED,5,42000000,False,False
-Gabriel Gudmundsson,26,Lille,6.79,SWE,3,9300000,False,False
-Gabriel Jesus,28,Arsenal,6.98,BRA,3,41000000,False,False
-Gabriel Magalhães,27,Arsenal,7.19,BRA,5,70000000,False,False
-Gabriel Martinelli,23,Arsenal,6.98,BRA,2,51000000,False,False
-Gabriel Misehouy,19,Girona FC,6.73,NED,2,970000,False,False
-Gaoussou Diakité,19,FC Liefering,7.34,MLI,4,825000,False,False
-Gavi,20,Barcelona,6.89,ESP,2,72000000,False,False
-Geny Catamo,24,Sporting,7.07,MOZ,5,16100000,False,False
-George Ilenikhena,18,AS Monaco,6.72,NGR,3,13800000,False,False
-Geovany Quenda,18,Sporting,7.10,POR,2,49000000,False,False
-Gerard Martín,23,Barcelona,6.87,ESP,2,6800000,False,False
-Giacomo De Pieri,18,Inter U20,7.53,ITA,0,1400000,False,False
-Gianluigi Donnarumma,26,Paris Saint-Germain,7.02,ITA,2,36000000,False,False
-Giovanni Daffara,20,Juventus Next Gen U23,6.95,ITA,1,415000,False,False
-Giovanni Fabbian,22,Bologna,6.85,ITA,4,12100000,False,False
-Gonzalo García,21,Real Madrid Castilla,7.50,ESP,1,5200000,False,False
-Gonçalo Inácio,23,Sporting,7.22,POR,1,47000000,False,False
-Gonçalo Ramos,23,Paris Saint-Germain,7.05,POR,5,42000000,False,False
-Gregor Kobel,27,Borussia Dortmund,6.91,SUI,5,41000000,False,False
-Grégoire Coudert,26,Stade Brestois,6.54,FRA,3,360000,False,False
-Guram Kashia,37,ŠK Slovan Bratislava,6.87,GEO,5,220000,False,False
-Gustaf Nilsson,27,Club Brugge KV,6.98,SWE,5,6600000,False,False
-Gustavo Marques,23,Benfica B,7.11,BRA,5,1400000,False,False
-Guélor Kanga,34,FK Crvena zvezda,7.51,GAB,5,660000,False,False
-Hakan Çalhanoğlu,31,Inter,7.34,TUR,5,36000000,False,False
-Hamidou Makalou,18,Stade Brestois,6.48,MLI,1,220000,False,False
-Harry Kane,31,FC Bayern München,7.69,ENG,5,98000000,False,False
-Harvey Davies,21,Liverpool,7.23,ENG,2,470000,False,False
-Harvey Elliott,22,Liverpool,6.93,ENG,2,36000000,False,False
-Hendry Blank,20,Red Bull Salzburg,7.15,GER,2,3800000,False,False
-Henrikh Mkhitaryan,36,Inter,7.06,ARM,5,3800000,False,False
-Henrique Arreiol,19,Sporting CP B,6.77,POR,1,1100000,False,False
-Hidemasa Morita,30,Sporting,6.92,JPN,5,13800000,False,False
-Hiroki Itō,26,FC Bayern München,7.12,JPN,5,33000000,False,False
-Hugo Bueno,22,Feyenoord,Not found,ESP,3,8700000,False,False
-Hugo Félix,21,Benfica B,7.33,POR,3,1900000,False,False
-Hugo Magnetti,26,Stade Brestois,6.67,FRA,4,6400000,False,False
-Hugo de Llanos,20,Real Madrid Castilla,6.71,ESP,1,185000,False,False
-Hákon Haraldsson,22,Lille,7.12,ISL,3,15500000,False,False
-Héctor Fort,18,Barcelona,6.74,ESP,2,9700000,False,False
-Ian Maatsen,23,Aston Villa,6.93,NED,9,26000000,False,False
-Ibrahim Kanté,18,Stade Brestois U19,5.60,FRA,0,6400000,True,False
-Ibrahim M'Baye,25,Al-Riyadh,6.84,IRQ,5,590000,False,False
-Ibrahima Konaté,25,Liverpool,7.11,FRA,3,62000000,False,False
-Idjessi Metsoko,23,ŠK Slovan Bratislava,6.68,TOG,4,580000,False,False
-Igor Paixão,24,Feyenoord,7.50,BRA,3,23000000,False,False
-Ilias Kostis,22,Atlético Madrid B,7.05,GRE,0,450000,False,False
-Imanol García,24,AC Sparta Praha,6.55,ESP,5,875000,False,False
-In-beom Hwang,28,Feyenoord,7.29,KOR,5,10900000,False,False
-Irakli Azarovi,23,Shakhtar Donetsk,7.07,GEO,5,4300000,False,False
-Isaac Babadi,20,PSV Eindhoven,7.24,NED,2,3800000,False,False
-Isaac Cossier,18,LOSC Lille 2,6.30,FRA,0,6400000,True,False
-Isaac Mabaya,20,Liverpool U21,6.40,ZIM,0,6400000,True,False
-Isak Hien,26,Atalanta,6.89,SWE,5,29000000,False,False
-Ismaily,35,Lille,6.99,BRA,8,1500000,False,False
-Ismeal Kabia,19,Arsenal U21,7.10,NED,0,6400000,True,False
-Ivan Guteša,23,FK Crvena zvezda,7.11,SRB,5,1100000,False,False
-Ivan Nevistić,26,GNK Dinamo Zagreb,6.76,CRO,5,1600000,False,False
-Iván Fresneda,20,Sporting,6.81,ESP,3,8300000,False,False
-Iván Martín,26,Girona FC,6.78,ESP,5,9100000,False,False
-Iñaki Peña,26,Barcelona,6.90,ESP,4,9100000,False,False
-Iñigo Martínez,34,Barcelona,7.16,ESP,4,5200000,False,False
-Jack Grealish,29,Manchester City,7.21,ENG,4,36000000,False,False
-Jack Henry-Francis,21,Arsenal U21,6.16,IRL,1,170000,False,False
-Jacob Bruun Larsen,26,VfB Stuttgart,6.74,DEN,5,6500000,False,False
-Jacob Hödl,18,Sturm Graz II,6.73,AUT,1,430000,False,False
-Jacobo Ramón,20,Real Madrid Castilla,7.23,ESP,1,530000,False,False
-Jacques Bomo,19,Young Boys U21,6.90,SUI,0,110000,False,False
-Jakub Kiwior,25,Arsenal,6.85,POL,5,23000000,False,False
-Jakub Moder,26,Feyenoord,7.00,POL,5,10900000,False,False
-Jamal Musiala,22,FC Bayern München,7.54,GER,1,136000000,False,False
-James Forrest,33,Celtic,6.96,SCO,1,540000,False,False
-James McAtee,22,Manchester City,7.07,ENG,4,16200000,False,False
-James McConnell,20,Liverpool U21,6.78,ENG,1,2100000,False,False
-Jamie Gittens,20,Borussia Dortmund,7.03,ENG,1,49000000,False,False
-Jamie Leweling,24,VfB Stuttgart,6.93,GER,5,18400000,False,False
-Jan Kuchta,28,AC Sparta Praha,6.90,CZE,5,4100000,False,False
-Jan Oblak,32,Atlético Madrid,7.03,SLO,5,27000000,False,False
-Jan Oliveras,20,GNK Dinamo Zagreb,7.09,ESP,2,93000,False,False
-Janis Blaswich,34,Red Bull Salzburg,6.67,GER,5,930000,False,False
-Janis Lüthi,20,Young Boys U21,6.90,SUI,0,205000,False,False
-Jaouen Hadjam,22,Young Boys,6.94,ALG,3,6600000,False,False
-Jarzinho Malanga,18,VfB Stuttgart II U21,6.67,GER,1,1300000,False,False
-Jashar Dema,19,Young Boys U21,6.67,KOS,0,105000,False,False
-Jastin García,21,Girona B,6.55,POR,1,6400000,True,False
-Javi Galán,30,Atlético Madrid,6.88,ESP,5,3900000,False,False
-Javier Serrano,22,Atlético Madrid B,6.81,ESP,5,735000,False,False
-Javison Idele,18,Atalanta,6.64,ITA,0,195000,False,False
-Jeanuël Belocian,20,Bayer 04 Leverkusen,6.75,FRA,2,16200000,False,False
-Jens Odgaard,26,Bologna,6.84,DEN,5,11400000,False,False
-Jeremie Frimpong,24,Bayer 04 Leverkusen,6.86,NED,2,52000000,False,False
-Jesús Vallejo,28,Real Madrid,6.60,ESP,5,1000000,False,False
-Jeyland Mitchell,20,Feyenoord,6.43,CRC,5,2400000,False,False
-Jhon Lucumí,26,Bologna,6.98,COL,3,18500000,False,False
-Jimi Gower,20,Arsenal U21,6.70,ENG,0,6400000,True,False
-Joaquín Correa,30,Inter,6.95,ARG,5,2800000,False,False
-Joe Gomez,27,Liverpool,6.82,ENG,2,24000000,False,False
-Joeri Heerkens,19,Sparta Praha B U21,7.10,NED,2,245000,False,False
-Johan Bakayoko,22,PSV Eindhoven,7.09,BEL,2,33000000,False,False
-John McGinn,30,Aston Villa,6.96,SCO,3,17400000,False,False
-John Mellberg,18,Red Bull Salzburg,7.11,SWE,3,1400000,False,False
-Johnny Kenny,21,Celtic,7.05,IRL,5,230000,False,False
-Jon Gorenc Stanković,29,SK Sturm Graz,7.07,SLO,4,3700000,False,False
-Jonah Kusi-Asare,17,Bayern München II,6.83,SWE,2,2700000,False,False
-Jonas Hofmann,32,Bayer 04 Leverkusen,6.93,GER,5,3100000,False,False
-Jonas Martin,35,Stade Brestois,6.62,FRA,8,825000,False,False
-Jonathan Asp-Jensen,19,Bayern München II,7.27,DEN,1,1500000,False,False
-Jonathan David,25,Lille,7.20,CAN,3,43000000,False,False
-Jonathan Norbye,18,RB Leipzig U19,6.50,NOR,2,6400000,True,False
-Jordan Amavi,31,Stade Brestois,6.78,FRA,5,2200000,False,False
-Jordan Lotomba,26,Feyenoord,6.85,SUI,4,8200000,False,False
-Jordi Danso,18,Girona U19,7.70,GAM,0,6400000,True,False
-Jorginho,33,Arsenal,6.79,ITA,5,8700000,False,False
-Josep Martínez,26,Inter,7.47,ESP,5,12600000,False,False
-Josh Nichols,18,Arsenal U21,6.97,ENG,0,6400000,True,False
-Joshua Kimmich,30,FC Bayern München,7.89,GER,3,54000000,False,False
-Josip Mišić,30,GNK Dinamo Zagreb,7.08,CRO,5,2200000,False,False
-José Giménez,30,Atlético Madrid,6.98,URU,2,19200000,False,False
-Jota,26,Celtic,6.91,POR,10,9900000,False,False
-João Félix,25,Milan,7.09,POR,5,24000000,False,False
-João Neves,20,Paris Saint-Germain,7.33,POR,3,69000000,False,False
-João Palhinha,29,FC Bayern München,6.94,POR,12,37000000,False,False
-João Rêgo,19,Benfica,7.01,POR,2,3100000,False,False
-João Simões,18,Sporting,6.76,POR,2,6400000,False,False
-João Veloso,19,Benfica B,6.74,POR,1,485000,False,False
-Joël Drommel,28,PSV Eindhoven,7.29,NED,3,1800000,False,False
-Joël Monteiro,25,Young Boys,6.88,SUI,4,6800000,False,False
-Joško Gvardiol,23,Manchester City,7.27,CRO,3,69000000,False,False
-Juan Arango,18,Girona U19,7.00,VEN,1,6400000,True,False
-Juan Cabal,24,Juventus,6.78,COL,4,9300000,False,False
-Juan Carlos,37,Girona FC,6.80,ESP,8,95000,False,False
-Juan Cuadrado,36,Atalanta,7.08,COL,5,950000,False,False
-Juan Córdoba,21,GNK Dinamo Zagreb,6.75,COL,3,1400000,False,False
-Juan Miranda,25,Bologna,7.15,ESP,5,11500000,False,False
-Juan Musso,31,Atlético Madrid,7.25,ARG,5,4300000,False,False
-Juanpe,34,Girona FC,7.04,ESP,5,930000,False,False
-Jude Bellingham,21,Real Madrid,7.49,ENG,3,170000000,False,False
-Jude Bonnar,19,Celtic B U21,6.45,SCO,1,6400000,True,False
-Jules Koundé,26,Barcelona,7.14,FRA,4,64000000,False,False
-Julian Brandt,29,Borussia Dortmund,7.13,GER,2,26000000,False,False
-Julien Duranville,19,Borussia Dortmund,6.69,BEL,2,9200000,False,False
-Julien Le Cardinal,27,Stade Brestois,7.06,FRA,5,1500000,False,False
-Julián Alvarez,25,Atlético Madrid,7.28,ARG,5,87000000,False,False
-Julián Carranza,24,Feyenoord,6.78,ARG,5,5800000,False,False
-Juraj Kucka,38,ŠK Slovan Bratislava,6.93,SVK,4,365000,False,False
-Jurij Medveděv,28,ŠK Slovan Bratislava,6.81,CZE,5,350000,False,False
-Justin Bijlow,27,Feyenoord,7.20,NED,1,5200000,False,False
-Justin Bourgault,19,Stade Brestois,6.79,FRA,3,325000,False,False
-Justin Diehl,20,VfB Stuttgart II U21,6.58,GER,2,3300000,False,False
-Jérémy Doku,22,Manchester City,7.35,BEL,4,51000000,False,False
-Kaan Kairinen,26,AC Sparta Praha,6.92,FIN,5,6400000,False,False
-Kaden Braithwaite,17,Manchester City U18,7.08,ENG,0,6400000,True,False
-Kai Havertz,25,Arsenal,7.13,GER,3,68000000,False,False
-Kamory Doumbia,22,Stade Brestois,6.83,MLI,4,5400000,False,False
-Kang-in Lee,24,Paris Saint-Germain,7.34,KOR,4,32000000,False,False
-Karim Adeyemi,23,Borussia Dortmund,7.18,GER,4,41000000,False,False
-Karim Konaté,21,Red Bull Salzburg,7.12,CIV,4,16400000,False,False
-Kastriot Imeri,24,Young Boys,6.73,SUI,2,2600000,False,False
-Kaua Wellhington Oliveira Pinto,21,Sporting CP B,-,BRA,0,6400000,True,False
-Kauã Elias,19,Shakhtar Donetsk,6.58,BRA,2,11200000,False,False
-Kaye Furo,18,Club Brugge U19,Not found,BEL,0,6400000,True,False
-Ken Izekor,17,Bayer Leverkusen U19,-,GER,0,6400000,True,False
-Kenan Bajrič,30,ŠK Slovan Bratislava,6.93,SLO,4,1500000,False,False
-Kenny Lala,33,Stade Brestois,7.06,MAD,5,2300000,False,False
-Kerem Aktürkoğlu,26,Benfica,7.21,TUR,5,23000000,False,False
-Kerim Alajbegović,17,Bayer Leverkusen U19,7.30,BIH,0,6400000,True,False
-Kevin,33,Manchester City,7.41,BEL,4,28000000,False,False
-Kevin De Bruyne,33,Manchester City,7.41,BEL,4,28000000,False,False
-Kevin Kampl,34,RB Leipzig,6.93,SLO,5,3100000,False,False
-Khvicha Kvaratskhelia,24,Paris Saint-Germain,7.47,GEO,5,82000000,False,False
-Kieran Morrison,18,Liverpool U21,Not found,NIR,0,6400000,True,False
-Kingsley Coman,28,FC Bayern München,7.07,FRA,5,37000000,False,False
-Koke,33,Atlético Madrid,6.89,ESP,2,9200000,False,False
-Konrad Laimer,27,FC Bayern München,6.98,AUT,4,24000000,False,False
-Kortney Hause,29,Aston Villa,6.63,ENG,5,1900000,False,False
-Kosta Nedeljković,19,RB Leipzig,6.69,SRB,5,9300000,False,False
-Kristjan Asllani,23,Inter,6.90,ALB,4,15500000,False,False
-Krépin Diatta,26,AS Monaco,6.67,SEN,3,9700000,False,False
-Kylian Mbappé,26,Real Madrid,7.56,FRA,5,180000000,False,False
-Ladislav Krejčí,26,Girona FC,6.95,CZE,3,11200000,False,False
-Lamare Bogarde,21,Aston Villa,6.64,NED,3,4900000,False,False
-Lamine Camara,21,AS Monaco,7.16,SEN,4,21000000,False,False
-Lamine Yamal,17,Barcelona,7.80,ESP,1,194000000,False,False
-Landry Farré,18,Barcelona Atlètic,6.70,ESP,0,275000,False,False
-Lapo Nava,21,Milan Futuro,7.00,ITA,1,97000,False,False
-Lautaro Martínez,27,Inter,7.25,ARG,2,89000000,False,False
-Leandro Barreiro,25,Benfica,6.89,LUX,3,14500000,False,False
-Leandro Morgalla,20,Red Bull Salzburg,6.73,GER,2,2100000,False,False
-Leandro Santos,19,Benfica,6.92,POR,2,1100000,False,False
-Lennart Karl,17,Bayern München U19,7.00,GER,0,6400000,True,False
-Leon Bailey,27,Aston Villa,6.81,JAM,3,30000000,False,False
-Leon Belcar,23,GNK Dinamo Zagreb,7.04,CRO,3,870000,False,False
-Leon Goretzka,30,FC Bayern München,7.09,GER,3,20000000,False,False
-Leon Grgić,19,SK Sturm Graz,6.80,AUT,2,1100000,False,False
-Leon Klanac,18,Bayern München U19,7.35,GER,0,6400000,True,False
-Leon Koß,18,RB Leipzig U19,6.35,GER,0,6400000,True,False
-Lewin Blum,23,Young Boys,6.89,SUI,3,2900000,False,False
-Lewis Ferguson,25,Bologna,6.89,SCO,3,22000000,False,False
-Liam Bossin,28,Feyenoord,7.19,IRL,5,490000,False,False
-Lilian Baret,18,LOSC Lille 2,6.80,FRA,0,6400000,True,False
-Lloyd Kelly,26,Juventus,6.78,ENG,5,18500000,False,False
-Loren Aguado,22,Real Madrid Castilla,6.64,ESP,5,97000,False,False
-Lorenzo Anghelè,20,Juventus Next Gen U23,6.60,ITA,1,875000,False,False
-Lorenzo Bernasconi,21,Atalanta U23,7.43,ITA,2,410000,False,False
-Lorenzo De Silvestri,36,Bologna,6.78,ITA,5,360000,False,False
-Lorin Jetzer,19,Young Boys U21,6.50,SUI,0,54000,False,False
-Loris Benito,33,Young Boys,6.96,SUI,4,310000,False,False
-Louis Mouquet,20,Senza squadra,6.70,POR,1,6400000,True,False
-Luca Jaquez,21,VfB Stuttgart,6.98,SUI,2,6400000,False,False
-Lucas Anjos,20,Sporting CP B,6.70,POR,0,6400000,True,False
-Lucas Beraldo,21,Paris Saint-Germain,7.09,BRA,2,23000000,False,False
-Lucas Chevalier,23,Lille,7.11,FRA,4,31000000,False,False
-Lucas Digne,31,Aston Villa,6.94,FRA,5,11000000,False,False
-Lucas Hernández,29,Paris Saint-Germain,6.85,FRA,4,31000000,False,False
-Lucas Michal,19,AS Monaco U21,6.56,FRA,0,520000,False,False
-Lucas Pérez,36,PSV Eindhoven,7.32,ESP,4,485000,False,False
-Lucas Vázquez,33,Real Madrid,7.03,ESP,5,3800000,False,False
-Ludovic Ajorque,31,Stade Brestois,7.09,FRA,5,4200000,False,False
-Luis Díaz,28,Liverpool,7.23,COL,4,92000000,False,False
-Luka Ilić,25,FK Crvena zvezda,7.31,SRB,5,1900000,False,False
-Luka Ivanušec,26,Feyenoord,6.77,CRO,3,5400000,False,False
-Luka Jović,27,Milan,6.88,SRB,5,2600000,False,False
-Luka Modrić,39,Real Madrid,7.29,CRO,5,5500000,False,False
-Lukas Kačavenda,22,GNK Dinamo Zagreb,6.77,CRO,4,1900000,False,False
-Lukas Klostermann,28,RB Leipzig,6.87,GER,2,7700000,False,False
-Luke McCowan,27,Celtic,7.19,SCO,3,2100000,False,False
-Lukáš Haraslín,28,AC Sparta Praha,7.44,SVK,5,7700000,False,False
-Lukáš Hrádecký,35,Bayer 04 Leverkusen,7.01,FIN,5,2100000,False,False
-Lutfi Dalipi,18,Young Boys U21,6.40,SUI,0,90000,False,False
-Lutsharel Geertruida,24,RB Leipzig,6.74,NED,2,29000000,False,False
-Luuk de Jong,34,PSV Eindhoven,7.36,NED,5,2800000,False,False
-Lynnt Audoor,21,Club NXT U23,7.27,BEL,3,620000,False,False
-Mads Bidstrup,24,Red Bull Salzburg,7.00,DEN,5,8700000,False,False
-Maghnes Akliouche,23,AS Monaco,7.26,FRA,1,39000000,False,False
-Magnus Kofod Andersen,26,AC Sparta Praha,6.81,DEN,3,1200000,False,False
-Mahdi Camara,26,Stade Brestois,7.03,FRA,5,10800000,False,False
-Maik Nawrocki,24,Celtic,7.63,POL,5,1900000,False,False
-Mama Baldé,29,Stade Brestois,6.63,GBS,5,4300000,False,False
-Mamadou Coulibaly,26,Catanzaro,6.65,SEN,5,745000,False,False
-Mamadou Fall,33,Kasımpaşa,6.92,SEN,5,750000,False,False
-Mamady Diambou,22,Red Bull Salzburg,6.78,MLI,5,3300000,False,False
-Manuel Akanji,29,Manchester City,7.01,SUI,5,29000000,False,False
-Manuel Locatelli,27,Juventus,7.25,ITA,5,27000000,False,False
-Manuel Neuer,39,FC Bayern München,6.83,GER,2,4100000,False,False
-Manuel Silva,23,Benfica,6.98,POR,3,10900000,False,False
-Marc Aznar,19,Girona U19,7.00,ESP,0,6400000,True,False
-Marc Bernal,17,Barcelona,7.00,ESP,1,4900000,False,False
-Marc Casadó,21,Barcelona,7.04,ESP,2,29000000,False,False
-Marc-Aurèle Caillard,31,Lille,6.25,FRA,5,160000,False,False
-Marcel Lotka,23,Borussia Dortmund,7.38,POL,4,1400000,False,False
-Marco Asensio,29,Aston Villa,7.14,ESP,5,21000000,False,False
-Marco Bizot,34,Stade Brestois,7.06,NED,5,3200000,False,False
-Marco Brescianini,25,Atalanta,6.74,ITA,5,7400000,False,False
-Marco Carnesecchi,24,Atalanta,7.10,ITA,5,26000000,False,False
-Marcos Llorente,30,Atlético Madrid,7.20,ESP,5,29000000,False,False
-Mario Hermoso,29,Bayer 04 Leverkusen,6.87,ESP,4,9500000,False,False
-Mario Rivas,18,Real Madrid C,6.84,ESP,0,195000,False,False
-Marko Arnautović,36,Inter,6.81,AUT,5,3700000,False,False
-Marlon Gomes,21,Shakhtar Donetsk,6.96,BRA,2,10300000,False,False
-Marquinhos,31,Paris Saint-Germain,7.35,BRA,5,39000000,False,False
-Marten de Roon,34,Atalanta,7.12,NED,5,6800000,False,False
-Martin Baturina,22,GNK Dinamo Zagreb,7.43,CRO,3,20000000,False,False
-Martin Erlić,27,Bologna,6.84,CRO,5,4800000,False,False
-Martin Kern,19,SK Sturm Graz,6.71,HUN,1,260000,False,False
-Marvin Keller,23,Young Boys,7.29,SUI,5,5300000,False,False
-Massadio Haïdara,32,Stade Brestois,6.85,MLI,5,1900000,False,False
-Matej Gashtarov,18,FK Crvena zvezda U19,6.50,MKD,0,6400000,True,False
-Mateo Kovačić,31,Manchester City,7.21,CRO,5,24000000,False,False
-Matevž Dajčar,23,Atalanta U23,6.79,SLO,1,110000,False,False
-Matheus Nunes,26,Manchester City,7.35,POR,4,33000000,False,False
-Matheus Reis,30,Sporting,6.85,BRA,5,7400000,False,False
-Matteo Bignetti,21,SK Sturm Graz,7.35,AUT,2,260000,False,False
-Matteo Cocchi,18,Inter U20,7.20,ITA,0,1500000,False,False
-Matteo Darmian,35,Inter,6.80,ITA,5,3800000,False,False
-Matteo Gabbia,25,Milan,6.95,ITA,5,14400000,False,False
-Matteo Motta,20,Inter U20,7.14,ITA,0,105000,False,False
-Mattia Liberali,18,Milan U19,7.01,ITA,1,5300000,False,False
-Matty Cash,27,Aston Villa,6.89,POL,3,25000000,False,False
-Matúš Macík,31,ŠK Slovan Bratislava,6.73,SVK,5,190000,False,False
-Matěj Kovář,25,Bayer 04 Leverkusen,6.94,CZE,5,7200000,False,False
-Maurits Kjærgaard,21,Red Bull Salzburg,7.53,DEN,4,12100000,False,False
-Mauro Couto,19,Sporting CP B,6.60,POR,0,210000,False,False
-Mauro Júnior,26,PSV Eindhoven,7.09,BRA,4,12400000,False,False
-Max Alleyne,19,Manchester City U21,7.40,ENG,0,485000,False,False
-Max Johnston,21,SK Sturm Graz,6.78,SCO,5,1900000,False,False
-Maxim De Cuyper,24,Club Brugge KV,7.42,BEL,3,15500000,False,False
-Maxim Mateáš,17,ŠK Slovan Bratislava B U21,6.45,SVK,0,330000,False,False
-Maximilian Beier,22,Borussia Dortmund,6.84,GER,4,27000000,False,False
-Maximilian Mittelstädt,28,VfB Stuttgart,7.30,GER,2,22000000,False,False
-Maximiliano Araújo,25,Sporting,7.08,URU,4,12700000,False,False
-Maximiliano Caufriez,28,Red Bull Salzburg,6.68,BEL,5,1400000,False,False
-Maximilián Marko,20,ŠK Slovan Bratislava B U21,6.60,SVK,0,79000,False,False
-Mayssam Benama,20,AS Monaco U21,6.10,FRA,0,160000,False,False
-Michael Bresser,18,Jong PSV Eindhoven,6.76,NED,0,245000,False,False
-Michael Olise,23,FC Bayern München,7.83,FRA,3,77000000,False,False
-Michał Boledovic,22,ŠK Slovan Bratislava B U21,-,SVK,4,79000,False,False
-Michel Aebischer,28,Bologna,6.83,SUI,4,10500000,False,False
-Michele Di Gregorio,27,Juventus,Not found,ITA,5,17200000,False,False
-Miguel Chaiwa,21,Young Boys,6.65,ZAM,4,1200000,False,False
-Miguel Gutiérrez,23,Girona FC,7.06,ESP,3,27000000,False,False
-Mika Biereth,22,AS Monaco,7.23,DEN,5,26000000,False,False
-Mike Aidoo,19,Inter U20,6.92,ITA,0,390000,False,False
-Mike Maignan,29,Milan,7.18,FRA,3,27000000,False,False
-Mikel Merino,28,Arsenal,7.07,ESP,5,36000000,False,False
-Milson,25,FK Crvena zvezda,7.08,ANG,5,5200000,False,False
-Min-jae Kim,28,FC Bayern München,7.11,KOR,5,46000000,False,False
-Min-su Kim,19,Girona B,6.62,KOR,1,1100000,False,False
-Mirko Ivanić,31,FK Crvena zvezda,7.45,MNE,5,4900000,False,False
-Mitchel Bakker,24,Lille,Not found,NED,5,7600000,False,False
-Mohamed Camara,27,Young Boys,6.91,GUI,5,2200000,False,False
-Morten Hjulmand,25,Sporting,7.13,DEN,3,48000000,False,False
-Mykola Matvienko,29,Shakhtar Donetsk,7.12,UKR,4,16900000,False,False
-Myles Lewis-Skelly,18,Arsenal,6.76,ENG,1,30000000,False,False
-Nabil Bentaleb,30,Lille,6.66,ALG,4,8800000,False,False
-Nahuel Molina,27,Atlético Madrid,6.82,ARG,5,24000000,False,False
-Naim Byar,20,Bologna U19,6.87,MAR,1,535000,False,False
-Nathan Aké,30,Manchester City,6.88,NED,5,29000000,False,False
-Nathan Butler-Oyedeji,22,Arsenal U21,6.53,ENG,2,525000,False,False
-Nathanaël Mbuku,23,GNK Dinamo Zagreb,6.95,COD,5,1800000,False,False
-Neto,25,Chelsea,7.04,POR,5,48000000,False,False
-Newerton,19,Shakhtar Donetsk,7.02,BRA,1,2900000,False,False
-Ngal'ayel Mukau,20,Lille,6.80,COD,3,14200000,False,False
-Nico González,23,Manchester City,7.14,ESP,5,43000000,False,False
-Nico O'Reilly,20,Manchester City,7.19,ENG,0,7600000,False,False
-Nicola Bagnolini,21,Bologna,7.04,ITA,1,190000,False,False
-Nicolas Kühn,25,Celtic,7.38,GER,5,11300000,False,False
-Nicolás Capaldo,26,Red Bull Salzburg,6.97,ARG,2,5300000,False,False
-Nicolás González,27,Juventus,6.98,ARG,5,29000000,False,False
-Nicolò Barella,28,Inter,7.14,ITA,5,87000000,False,False
-Nicolò Cambiaghi,24,Bologna,6.97,ITA,5,6300000,False,False
-Nicolò Casale,27,Bologna,6.80,ITA,5,7500000,False,False
-Niklas Geyrhofer,25,SK Sturm Graz,6.73,AUT,2,1900000,False,False
-Niklas Jessen,21,Borussia Dortmund II U23,6.45,GER,4,245000,False,False
-Niklas Lomb,31,Bayer 04 Leverkusen,6.70,GER,5,240000,False,False
-Niko Galešić,24,GNK Dinamo Zagreb,7.11,CRO,4,3200000,False,False
-Nikola Moro,27,Bologna,6.96,CRO,5,5200000,False,False
-Nikola Čavlina,22,GNK Dinamo Zagreb,6.56,CRO,5,805000,False,False
-Nikolas Nartey,25,VfB Stuttgart,6.77,DEN,5,410000,False,False
-Nino Marcelli,19,ŠK Slovan Bratislava,6.85,SVK,2,4500000,False,False
-Noa Lang,25,PSV Eindhoven,7.35,NED,5,27000000,False,False
-Noah Darvich,18,Barcelona Atlètic,6.86,GER,2,1900000,False,False
-Nordi Mukiele,27,Bayer 04 Leverkusen,7.01,FRA,5,9500000,False,False
-Nordin Jackers,27,Club Brugge KV,7.15,BEL,5,930000,False,False
-Nuno Félix,21,Benfica B,6.78,POR,0,1600000,False,False
-Nuno Mendes,22,Paris Saint-Germain,7.35,POR,3,53000000,False,False
-Nuno Santos,30,Sporting,7.26,POR,5,9300000,False,False
-Odilon Kossounou,24,Atalanta,6.82,CIV,5,26000000,False,False
-Oliver Lukić,18,FC Liefering,7.05,CRO,3,835000,False,False
-Olivier Boscagli,27,PSV Eindhoven,7.43,FRA,4,21000000,False,False
-Omar Marmoush,26,Manchester City,7.60,EGY,5,82000000,False,False
-Omri Glazer,29,FK Crvena zvezda,6.66,ISR,5,4600000,False,False
-Orkun Kökçü,24,Benfica,7.42,TUR,2,27000000,False,False
-Oscar Bobb,21,Manchester City,6.87,NOR,1,24000000,False,False
-Oscar Gloukh,21,Red Bull Salzburg,7.37,ISR,2,23000000,False,False
-Otar Kiteishvili,29,SK Sturm Graz,7.31,GEO,2,4600000,False,False
-Ousmane Dembélé,28,Paris Saint-Germain,7.76,FRA,4,73000000,False,False
-Ousmane Diomande,21,Sporting,6.96,CIV,4,42000000,False,False
-Oussama El Azzouzi,23,Bologna,6.63,MAR,4,2100000,False,False
-Paris Irie,19,Stade Brestois 29 2,6.70,FRA,1,6400000,True,False
-Pascal Groß,33,Borussia Dortmund,7.19,GER,5,6400000,False,False
-Paulo Gazzaniga,33,Girona FC,6.98,ARG,5,3600000,False,False
-Petar Bočkaj,28,GNK Dinamo Zagreb,7.80,CRO,5,780000,False,False
-Peter Kiedl,21,Sturm Graz II,7.18,AUT,1,320000,False,False
-Peter Olayinka,29,FK Crvena zvezda,7.07,NGR,5,4600000,False,False
-Phil Foden,24,Manchester City,7.28,ENG,1,123000000,False,False
-Philipp Köhn,27,AS Monaco,6.97,SUI,5,4100000,False,False
-Piero Hincapié,23,Bayer 04 Leverkusen,7.14,ECU,3,46000000,False,False
-Pierre Kalulu,24,Juventus,6.96,FRA,4,25000000,False,False
-Pierre Lees-Melou,31,Stade Brestois,7.14,FRA,4,6600000,False,False
-Pietro Comi,19,Atalanta U23,6.77,ITA,0,260000,False,False
-Plamen Andreev,20,Feyenoord,7.04,BUL,2,1600000,False,False
-Presnel Kimpembe,29,Paris Saint-Germain,6.76,FRA,1,7600000,False,False
-Péter Gulácsi,35,RB Leipzig,7.15,HUN,5,2400000,False,False
-Qazim Laçi,29,AC Sparta Praha,7.17,ALB,5,4100000,False,False
-Quentin Ndjantou,17,Paris Saint-Germain U19,7.50,FRA,0,6400000,True,False
-Quilindschy Hartman,23,Feyenoord,6.93,NED,2,17500000,False,False
-Rade Krunić,31,FK Crvena zvezda,7.05,BIH,5,4700000,False,False
-Radosław Majecki,25,AS Monaco,6.92,POL,5,7500000,False,False
-Raffaele Di Gennaro,31,Inter,7.60,ITA,5,325000,False,False
-Rahim Ibrahim,23,ŠK Slovan Bratislava,6.85,GHA,2,580000,False,False
-Ramon Hendriks,23,VfB Stuttgart,6.80,NED,5,4800000,False,False
-Ramy Bensebaïni,30,Borussia Dortmund,7.07,ALG,5,7400000,False,False
-Randal Kolo Muani,26,Juventus,6.88,FRA,5,27000000,False,False
-Raoul Bellanova,25,Atalanta,6.98,ITA,5,21000000,False,False
-Raphaël Guerreiro,31,FC Bayern München,7.18,POR,5,10600000,False,False
-Rayane Belaid,19,Atlético Madrid B,7.06,ESP,1,470000,False,False
-Relja Obrić,19,Atalanta U23,6.87,SLO,0,485000,False,False
-Remo Freuler,33,Bologna,6.96,SUI,5,6700000,False,False
-Reo Hatate,27,Celtic,7.24,JPN,3,11300000,False,False
-Riccardo Calafiori,22,Arsenal,6.98,ITA,5,39000000,False,False
-Richy Ledezma,24,PSV Eindhoven,6.96,USA,4,3200000,False,False
-Rick Karsdorp,30,PSV Eindhoven,6.87,NED,4,4200000,False,False
-Rico Lewis,20,Manchester City,6.99,ENG,1,37000000,False,False
-Ridle Baku,27,RB Leipzig,7.02,GER,4,7500000,False,False
-Robert Andrich,30,Bayer 04 Leverkusen,6.89,GER,5,15500000,False,False
-Robert Lewandowski,36,Barcelona,7.31,POL,5,14000000,False,False
-Robert Mak,34,ŠK Slovan Bratislava,7.07,SVK,4,480000,False,False
-Robin Le Normand,28,Atlético Madrid,6.85,ESP,3,38000000,False,False
-Robin Olsen,35,Aston Villa,6.65,SWE,5,1600000,False,False
-Rodney Elongo-Yombo,23,Borussia Dortmund II U23,6.64,GER,2,485000,False,False
-Rodrigo De Paul,30,Atlético Madrid,7.15,ARG,5,26000000,False,False
-Romain Del Castillo,29,Stade Brestois,7.03,FRA,5,7300000,False,False
-Romain Faivre,26,Stade Brestois,6.83,FRA,5,7600000,False,False
-Roman Horák,20,Sparta Praha B U21,6.34,CZE,1,270000,False,False
-Roman Mokrovics,18,Sparta Praha B U21,6.84,CZE,2,490000,False,False
-Ronald Araujo,26,Barcelona,7.00,URU,4,54000000,False,False
-Ross Barkley,31,Aston Villa,6.83,ENG,3,7200000,False,False
-Ruben Loftus-Cheek,29,Milan,6.82,ENG,5,16900000,False,False
-Ryan Flamingo,22,PSV Eindhoven,7.18,NED,5,16900000,False,False
-Ryan Gravenberch,23,Liverpool,7.08,NED,4,76000000,False,False
-Rémy Cabella,35,Lille,7.15,FRA,4,2900000,False,False
-Sacha Boey,24,FC Bayern München,6.84,FRA,6,16600000,False,False
-Sadegh Moharrami,29,GNK Dinamo Zagreb,6.91,IRI,5,780000,False,False
-Saidy Janko,29,Young Boys,6.90,GAM,5,545000,False,False
-Salko Hamzić,18,Red Bull Salzburg,7.20,AUT,2,435000,False,False
-Sam Beukema,26,Bologna,7.01,NED,3,27000000,False,False
-Samson Baidoo,21,Red Bull Salzburg,7.09,AUT,2,6200000,False,False
-Samuel Chukwueze,26,Milan,Not found,NGR,3,14400000,False,False
-Samuel Dahl,22,Benfica,7.01,SWE,6,7300000,False,False
-Samuel Gomez van Hoogen,19,PSV Eindhoven U19,6.57,BEL,0,6400000,True,False
-Samuel Mbangula,21,Juventus,6.91,BEL,2,12700000,False,False
-Samy Mmaee,28,GNK Dinamo Zagreb,6.88,MAR,5,485000,False,False
-Sandro Kulenović,25,GNK Dinamo Zagreb,7.13,CRO,5,3900000,False,False
-Sandro Lauper,28,Young Boys,6.89,SUI,2,930000,False,False
-Santiago Castro,20,Bologna,6.91,ARG,3,32000000,False,False
-Santiago Giménez,24,Not found,Not found,MEX,3,38000000,False,False
-Saïmon Bouabré,18,AS Monaco,6.36,FRA,0,310000,False,False
-Scott Bain,33,Celtic,6.8,SCO,8,210000,False,False
-Scott Carson,39,Manchester City,6.7,ENG,15,210000,False,False
-Sead Kolašinac,31,Atalanta,6.95,BIH,5,10600000,False,False
-Seedy Jatta,22,SK Sturm Graz,6.74,NOR,3,2700000,False,False
-Senny Mayulu,19,Paris Saint-Germain,6.92,FRA,1,9600000,False,False
-Serge Gnabry,29,FC Bayern München,6.99,GER,5,26000000,False,False
-Sergiño Dest,24,PSV Eindhoven,6.88,USA,5,17200000,False,False
-Serhou Guirassy,29,Borussia Dortmund,7.30,GUI,5,42000000,False,False
-Serigne Diop,20,Stade Brestois 29 2,6.60,SEN,0,6400000,True,False
-Shandre Campbell,19,Club Brugge KV,7.21,RSA,2,960000,False,False
-Shiloh 't Zand,22,Feyenoord,6.88,NED,5,1200000,False,False
-Silas Katompa Mvumpa,26,FK Crvena zvezda,6.89,COD,4,8200000,False,False
-Simon Mignolet,37,Club Brugge KV,Not found,BEL,5,1500000,False,False
-Soriba Diaoune,17,Lille U19,6.90,FRA,0,6400000,True,False
-Soumaïla Coulibaly,21,Stade Brestois,6.81,FRA,5,9600000,False,False
-Soungoutou Magassa,21,AS Monaco,6.81,FRA,2,13000000,False,False
-Stefan Drljača,26,VfB Stuttgart,7.03,GER,4,305000,False,False
-Stefan Hierländer,34,SK Sturm Graz,6.58,AUT,3,265000,False,False
-Stefan de Vrij,33,Inter,7.05,NED,3,6500000,False,False
-Stephano Carrillo,19,Feyenoord,6.43,MEX,1,2300000,False,False
-Takumi Minamino,30,AS Monaco,7.02,JPN,5,14500000,False,False
-Takumu Kawamura,25,Red Bull Salzburg,6.70,JPN,4,1800000,False,False
-Tammy Abraham,27,Milan,6.88,ENG,5,13700000,False,False
-Tarek Buchmann,20,FC Bayern München,6.36,GER,1,515000,False,False
-Tay Abed,20,Jong PSV Eindhoven,7.09,ISR,1,715000,False,False
-Teun Koopmeiners,27,Juventus,7.00,NED,4,38000000,False,False
-Theo Hernández,27,Milan,7.14,FRA,5,42000000,False,False
-Thibaut Courtois,33,Real Madrid,7.15,BEL,5,24000000,False,False
-Thijs Dallinga,24,Bologna,6.78,NED,5,13100000,False,False
-Thijs Kraaijeveld,18,Senza squadra,6.60,NED,0,6400000,True,False
-Thilo Kehrer,28,AS Monaco,7.08,GER,5,15500000,False,False
-Thomas Beelen,23,Feyenoord,6.89,NED,3,9300000,False,False
-Thomas Berenbruch,19,Inter U20,7.42,ITA,0,1000000,False,False
-Thomas Kastanaras,22,VfB Stuttgart,Not found,GER,3,520000,False,False
-Thomas Lemar,29,Atlético Madrid,6.63,FRA,4,5200000,False,False
-Thomas Meunier,33,Lille,7.05,BEL,4,1900000,False,False
-Thomas Müller,35,FC Bayern München,6.99,GER,2,5500000,False,False
-Tidiam Gomis,18,RB Leipzig,6.72,FRA,2,3200000,False,False
-Tigran Barseghyan,31,ŠK Slovan Bratislava,7.59,ARM,5,1800000,False,False
-Timi Elšnik,27,FK Crvena zvezda,7.45,SLO,4,5400000,False,False
-Tochi Chukwuani,22,SK Sturm Graz,6.82,DEN,3,4300000,False,False
-Tomas Baković,18,GNK Dinamo Zagreb U19,6.67,CRO,0,6400000,True,False
-Tomi Horvat,26,SK Sturm Graz,7.16,SLO,2,3700000,False,False
-Tommaso Del Lungo,21,Atalanta U23,6.75,ITA,0,410000,False,False
-Trent Alexander-Arnold,26,Liverpool,7.20,ENG,1,77000000,False,False
-Trey Nyoni,17,Liverpool U21,6.70,ENG,0,3200000,False,False
-Tygo Land,19,PSV Eindhoven,6.88,NED,2,2800000,False,False
-Tyler Morton,22,Liverpool,6.98,ENG,3,8300000,False,False
-Tyrell Malacia,25,PSV Eindhoven,6.74,NED,4,12600000,False,False
-Tyrone Mings,32,Aston Villa,6.98,ENG,5,6400000,False,False
-Uchenna Aririerisim,21,AC Sparta Praha,7.11,NGR,5,1800000,False,False
-Valentin Oelz,20,FC Liefering,6.45,AUT,1,105000,False,False
-Valeriy Bondar,26,Shakhtar Donetsk,7.05,UKR,1,6400000,False,False
-Vasilije Adžić,19,Juventus,7.03,MNE,2,3300000,False,False
-Veljko Birmančević,27,AC Sparta Praha,6.83,SRB,5,5800000,False,False
-Veljko Milosavljević,17,FK Crvena zvezda,7.08,SRB,1,560000,False,False
-Victor Boniface,24,Bayer 04 Leverkusen,6.96,NGR,3,49000000,False,False
-Victor Olatunji,25,AC Sparta Praha,6.87,NGR,4,2800000,False,False
-Viggo Gebel,17,RB Leipzig U19,7.20,GER,0,340000,False,False
-Viktor Gyökeres,26,Sporting,7.94,SWE,5,70000000,False,False
-Vito Mannone,37,Lille,7.63,ITA,5,190000,False,False
-Vladyslav Krapyvtsov,19,Girona FC,6.90,UKR,1,220000,False,False
-Vítězslav Jaroš,23,Liverpool,6.75,CZE,5,5300000,False,False
-Wahid Faghir,21,VfB Stuttgart,6.77,DEN,5,1100000,False,False
-Waldemar Anton,28,Borussia Dortmund,7.14,GER,3,19700000,False,False
-Walter Benítez,32,PSV Eindhoven,6.88,ARG,3,9100000,False,False
-Warren Bondo,21,Milan,6.72,FRA,5,9600000,False,False
-Wataru Endō,32,Liverpool,6.73,JPN,5,9200000,False,False
-Wessel Kuhn,18,Jong PSV Eindhoven,6.80,NED,1,515000,False,False
-Weston McKennie,26,Juventus,6.92,USA,5,25000000,False,False
-Wilfried Kanga,27,GNK Dinamo Zagreb,6.67,CIV,5,3300000,False,False
-William Bøving,22,SK Sturm Graz,7.00,DEN,2,4600000,False,False
-Wisdom Amey,19,Bologna U19,6.57,ITA,1,540000,False,False
-Yangel Herrera,27,Girona FC,6.99,VEN,5,18700000,False,False
-Yann Bisseck,24,Inter,6.97,GER,5,28000000,False,False
-Yann Lienard,22,AS Monaco,6.70,FRA,0,205000,False,False
-Yannik Keitel,25,VfB Stuttgart,6.69,GER,4,3400000,False,False
-Yannik Lührs,21,Borussia Dortmund II U23,6.96,GER,3,570000,False,False
-Yegor Nazaryna,27,Shakhtar Donetsk,6.71,UKR,5,1000000,False,False
-Youssouf Fofana,26,Milan,6.92,FRA,4,33000000,False,False
-Yukhym Konoplya,25,Shakhtar Donetsk,6.81,UKR,2,7600000,False,False
-Yunus Musah,22,Milan,6.71,USA,3,23000000,False,False
-Yáser Asprilla,21,Girona FC,6.89,COL,5,19300000,False,False
-Zachary Athekame,20,Young Boys,6.85,SUI,4,4100000,False,False
-Zeki Amdouni,24,Benfica,6.91,SUI,5,16200000,False,False
-Zeno Debast,21,Sporting,7.07,BEL,3,27000000,False,False
-Álex Grimaldo,29,Bayer 04 Leverkusen,7.41,ESP,3,39000000,False,False
-Álex Jiménez,20,Milan,6.88,ESP,0,9100000,False,False
-Álvaro Cortés,20,Barcelona Atlètic,6.89,ESP,1,135000,False,False
-Álvaro Fernández,27,Sevilla,6.84,ESP,5,2600000,False,False
-Ángel Correa,30,Atlético Madrid,6.85,ARG,2,16400000,False,False
-Ángel Di María,37,Benfica,7.47,ARG,8,3200000,False,False
-Éderson,31,Manchester City,6.98,BRA,4,23000000,False,False
-İlkay Gündoğan,34,Manchester City,7.01,GER,5,6600000,False,False
-Łukasz Łakomy,24,Young Boys,7.03,POL,3,3600000,False,False
+Player Name,Age,Team,ASR,Nationality,Transfer History Count,MarketValue,missing_market_value
+Abdu Conté,27,Young Boys,6.58,POR,5,750000,False
+Abduqodir Khusanov,21,Manchester City,7.01,UZB,3,11400000,False
+Abel Ruiz,25,Girona FC,6.65,ESP,5,5700000,False
+Achraf Hakimi,26,Paris Saint-Germain,7.63,MAR,5,62000000,False
+Adam Daghim,19,Red Bull Salzburg,6.97,DEN,4,5400000,False
+Adam Idah,24,Celtic,6.89,IRL,4,5000000,False
+Adamo Nagalo,22,PSV Eindhoven,6.75,BUR,2,7200000,False
+Ademola Lookman,27,Atalanta,7.34,NGR,5,66000000,False
+Adrian Bajrami,23,Benfica,7.04,ALB,2,1600000,False
+Adrián Niño,20,Atlético Madrid B,6.91,ESP,1,745000,False
+Afonso Moreira,20,Sporting CP B,6.78,POR,4,370000,False
+Aidan Borland,18,Aston Villa U21,7.03,SCO,0,6400000,True
+Aitor Gismera,21,Atlético Madrid B,6.77,ESP,1,265000,False
+Alaa Ghram,23,Shakhtar Donetsk,6.45,TUN,2,1600000,False
+Aladji Bamba,18,AS Monaco U19,6.20,FRA,0,6400000,True
+Alberto Costa,21,Juventus,7.08,POR,3,9300000,False
+Alberto Manzoni,19,Atalanta U20,6.89,ITA,0,1100000,False
+Aleix García,27,Bayer 04 Leverkusen,7.16,ESP,5,21000000,False
+Alejandro Balde,21,Barcelona,6.93,ESP,2,66000000,False
+Alejandro Francés,22,Girona FC,6.82,ESP,2,2300000,False
+Alejandro Iturbe,21,Atlético Madrid B,7.00,ESP,1,1900000,False
+Aleksandar Andreev,19,Girona U19,-,BUL,1,6400000,True
+Aleksandar Katai,34,FK Crvena zvezda,7.55,SRB,5,830000,False
+Aleksandr Golovin,28,AS Monaco,7.10,RUS,2,24000000,False
+Alen Mustafić,25,ŠK Slovan Bratislava,6.85,BIH,5,280000,False
+Alessandro Bastoni,26,Inter,7.17,ITA,5,75000000,False
+Alessandro Calligaris,20,Inter U20,6.98,ITA,0,245000,False
+Alessandro Florenzi,34,Milan,7.03,ITA,5,1400000,False
+Alexandar Borković,25,SK Sturm Graz,7.13,AUT,5,430000,False
+Alexander Bah,27,Benfica,7.10,DEN,5,12700000,False
+Alexander Meyer,34,Borussia Dortmund,6.88,GER,5,760000,False
+Alexander Nübel,28,VfB Stuttgart,6.82,GER,5,10900000,False
+Alexandre Brito,19,Sporting CP B,6.85,POR,1,6400000,True
+Alexej Maroš,20,ŠK Slovan Bratislava B U21,5.70,SVK,1,68000,False
+Alexis Mac Allister,26,Liverpool,7.23,ARG,5,99000000,False
+Alexis Olmedo,19,Barcelona Atlètic,6.93,ESP,0,195000,False
+Alexsandro Ribeiro,25,Lille,7.16,BRA,4,15500000,False
+Ali Al Musrati,20,Al Ahli Tripoli,-,LBA,1,6400000,True
+Alisson Santana,19,Shakhtar Donetsk,6.75,BRA,2,9700000,False
+Alistair Johnston,26,Celtic,7.42,CAN,4,9500000,False
+Almugera Kabar,19,Borussia Dortmund,6.67,GER,2,1000000,False
+Alphonso Davies,24,FC Bayern München,7.23,CAN,3,49000000,False
+Amadou Haïdara,27,RB Leipzig,6.84,MLI,4,19400000,False
+Amady Camara,19,SK Sturm Graz,6.66,MLI,2,1500000,False
+Amara Nallo,18,Liverpool U21,5.75,ENG,0,870000,False
+Ameen Al-Dakhil,23,VfB Stuttgart,6.75,BEL,5,7700000,False
+Amine Adli,25,Bayer 04 Leverkusen,6.88,MAR,2,19900000,False
+Amine Et-Taibi,22,Club NXT U23,6.82,MAR,1,390000,False
+Ander Astralaga,21,Barcelona Atlètic,7.20,ESP,1,835000,False
+Andrea Belotti,31,Benfica,6.82,ITA,5,1900000,False
+Andrea Cambiaso,25,Juventus,6.93,ITA,5,42000000,False
+Andrea Natali,17,Bayer Leverkusen U19,7.35,ITA,1,6400000,True
+Andreas Christensen,29,Barcelona,6.84,DEN,4,14400000,False
+Andrei Coubiș,21,Milan Futuro,6.80,ROU,0,105000,False
+Andrej Mikoláš,20,ŠK Slovan Bratislava B U21,-,SVK,1,26000,False
+Andrej Đurić,21,FK Crvena zvezda,6.83,MNE,5,515000,False
+Andri Baldursson,23,Bologna,7.00,ISL,5,930000,False
+Andrija Maksimović,17,FK Crvena zvezda,7.12,SRB,1,9600000,False
+Andriy Lunin,26,Real Madrid,7.19,UKR,5,18800000,False
+André Gomes,31,Lille,6.81,POR,4,7700000,False
+Andrés Cuenca,17,Barcelona Atlètic,6.72,ESP,1,185000,False
+Andrés García,22,Aston Villa,6.90,ESP,3,7600000,False
+Angel Gomes,24,Lille,6.86,ENG,5,22000000,False
+Anis Hadj Moussa,23,Feyenoord,7.02,ALG,5,12400000,False
+Anrie Chase,21,VfB Stuttgart,6.77,JPN,1,3800000,False
+Ansu Fati,22,Barcelona,6.69,ESP,4,5200000,False
+Antoine Griezmann,34,Atlético Madrid,7.31,FRA,5,21000000,False
+Anton Glushchenko,21,Shakhtar Donetsk,6.63,UKR,2,190000,False
+Antoni Milambo,20,Feyenoord,6.94,NED,3,16500000,False
+Antonio Gomis,21,Atlético Madrid B,7.03,ESP,1,165000,False
+Antonio Nusa,20,RB Leipzig,6.96,NOR,3,27000000,False
+António Silva,21,Benfica,7.11,POR,1,34000000,False
+Arbër Hoxha,26,GNK Dinamo Zagreb,6.76,ALB,5,1500000,False
+Arda Güler,20,Real Madrid,7.22,TUR,2,43000000,False
+Ardian Bajrami,21,Young Boys,6.83,SUI,1,190000,False
+Ardon Jashari,22,Club Brugge KV,7.13,SUI,2,24000000,False
+Arijan Ademi,33,GNK Dinamo Zagreb,6.93,MKD,5,485000,False
+Arjan Malić,19,SK Sturm Graz,6.67,BIH,2,830000,False
+Arkadiusz Milik,31,Juventus,6.87,POL,5,2100000,False
+Armando Obispo,26,PSV Eindhoven,6.77,NED,3,3300000,False
+Arnau Martínez,22,Girona FC,6.93,ESP,3,10800000,False
+Arnau Tenas,23,Paris Saint-Germain,7.30,ESP,2,4400000,False
+Arnaut Danjuma,28,Girona FC,6.88,NED,5,4700000,False
+Arne Engels,21,Celtic,7.30,BEL,2,12400000,False
+Artem Bondarenko,24,Shakhtar Donetsk,7.18,UKR,3,10800000,False
+Artero,22,Girona B,6.62,ESP,1,210000,False
+Arthur Cabral,27,Benfica,6.74,BRA,5,12400000,False
+Arthur Melo,8,PFC EF U8,Not found,BRA,0,6400000,True
+Atakan Karazor,28,VfB Stuttgart,7.10,TUR,3,13100000,False
+Axel Disasi,27,Aston Villa,6.91,FRA,5,26000000,False
+Axl De Corte,19,Club NXT U23,6.72,BEL,0,385000,False
+Ayman Azhil,24,Borussia Dortmund II U23,6.75,MAR,3,630000,False
+Ayyoub Bouaddi,17,Lille,6.73,FRA,0,33000000,False
+Azpilicueta,35,Atlético Madrid,6.87,ESP,5,1700000,False
+Aïssa Mandi,33,Lille,6.84,ALG,4,1600000,False
+Bafodé Diakité,24,Lille,6.98,FRA,2,23000000,False
+Bart Nieuwkoop,29,Feyenoord,6.76,NED,5,2700000,False
+Bartol Franjić,25,GNK Dinamo Zagreb,7.05,CRO,5,1900000,False
+Belmin Beganović,20,Sturm Graz II,7.13,AUT,3,455000,False
+Ben Broggio,18,Aston Villa U21,7.03,ENG,0,6400000,True
+Ben Hawighorst,17,Bayer Leverkusen U19,6.20,GER,0,6400000,True
+Benjamin André,34,Lille,7.11,FRA,3,6200000,False
+Benjamin Boakye,20,VfB Stuttgart II U21,6.73,GER,1,430000,False
+Benjamin Henrichs,28,RB Leipzig,6.82,GER,5,18400000,False
+Benjamín Domínguez,21,Bologna,6.83,ARG,3,15600000,False
+Berat Djimsiti,32,Atalanta,7.08,ALB,5,8700000,False
+Bernardo Silva,30,Manchester City,7.10,POR,5,43000000,False
+Biel,24,Sporting,6.89,BRA,5,4900000,False
+Bjorn Meijer,22,Club Brugge KV,6.91,NED,2,4700000,False
+Bobby Clark,20,Red Bull Salzburg,6.85,ENG,1,8800000,False
+Bojan Miovski,25,Girona FC,6.78,MKD,5,2900000,False
+Borja Garcés,25,Atlético Madrid B,6.58,ESP,10,535000,False
+Boubacar Kamara,25,Aston Villa,6.85,FRA,3,37000000,False
+Bradel Kiwa,19,AS Monaco,5.80,FRA,0,6400000,True
+Bradley Barcola,22,Paris Saint-Germain,7.23,FRA,3,68000000,False
+Bradley Burrowes,17,Aston Villa U18,6.81,ENG,0,6400000,True
+Bradley Locko,23,Stade Brestois,6.40,FRA,4,9300000,False
+Brahim Díaz,25,Real Madrid,6.91,MAR,5,47000000,False
+Brandon Mechele,32,Club Brugge KV,7.24,BEL,3,3300000,False
+Brayden Clarke,17,Arsenal U18,-,WAL,0,6400000,True
+Breel Embolo,28,AS Monaco,6.85,SUI,5,10900000,False
+Bremer,28,Juventus,7.53,BRA,3,47000000,False
+Brendan Chardonnet,30,Stade Brestois,7.05,FRA,3,6200000,False
+Bruma,30,Benfica,7.25,POR,5,8600000,False
+Bruno Duarte,29,FK Crvena zvezda,7.18,BRA,5,3800000,False
+Bryan Gil,24,Girona FC,6.99,ESP,5,15500000,False
+Bryan Okoh,22,FC Liefering,7.12,SUI,5,620000,False
+Caio Henrique,27,AS Monaco,7.04,BRA,5,14300000,False
+Callum McGregor,31,Celtic,7.28,SCO,3,6000000,False
+Cameron Carter-Vickers,27,Celtic,7.28,USA,5,15000000,False
+Caoimhín Kelleher,26,Liverpool,7.04,IRL,1,19800000,False
+Carlos Augusto,26,Inter,6.94,BRA,5,21000000,False
+Carlos Giménez,22,Atlético Madrid B,6.62,ESP,4,270000,False
+Carney Chukwuemeka,21,Borussia Dortmund,6.89,ENG,4,13600000,False
+Casper Nielsen,31,Club Brugge KV,6.78,DEN,4,2700000,False
+Castello Lukeba,22,RB Leipzig,6.93,FRA,3,49000000,False
+Cedric Itten,28,Young Boys,6.90,SUI,5,1800000,False
+Charalampos Lykogiannis,31,Bologna,7.07,GRE,5,1500000,False
+Charles De Ketelaere,24,Atalanta,7.24,BEL,5,35000000,False
+Chema Andrés,20,Real Madrid Castilla,6.92,ESP,1,485000,False
+Cherif Ndiaye,29,FK Crvena zvezda,7.23,SEN,5,4300000,False
+Chris Bedia,29,Young Boys,6.81,CIV,14,2600000,False
+Chris Führich,27,VfB Stuttgart,7.00,GER,5,17500000,False
+Chris-Kévin Nadje,23,Feyenoord,6.59,CIV,3,1500000,False
+Christian Fassnacht,31,Young Boys,7.16,SUI,9,2100000,False
+Christian Mawissa,20,AS Monaco,6.53,FRA,1,11000000,False
+Christian McFarlane,18,Manchester City U21,6.40,ENG,2,1900000,False
+Christoph Baumgartner,25,RB Leipzig,6.83,AUT,3,15600000,False
+Christopher Olivier,19,VfB Stuttgart II U21,6.73,AUT,1,460000,False
+Christos Alexiou,19,Inter U20,6.97,GRE,0,385000,False
+Chuba Akpom,29,Lille,6.93,ENG,5,7700000,False
+Claudio Echeverri,19,Manchester City,7.00,ARG,5,17200000,False
+Clément Lenglet,29,Atlético Madrid,7.02,FRA,5,7800000,False
+Cody Gakpo,26,Liverpool,7.26,NED,2,67000000,False
+Colby Donovan,18,Celtic B U21,7.30,SCO,0,6400000,True
+Cole Campbell,19,Borussia Dortmund,7.10,USA,1,1400000,False
+Conor Bradley,21,Liverpool,6.83,NIR,2,27000000,False
+Conor Gallagher,25,Atlético Madrid,6.88,ENG,5,39000000,False
+Conrad Harder,20,Sporting,6.98,DEN,2,26000000,False
+Couhaib Driouech,23,PSV Eindhoven,6.93,MAR,3,4700000,False
+Curtis Jones,24,Liverpool,6.95,ENG,1,48000000,False
+César Blackman,27,ŠK Slovan Bratislava,6.87,PAN,2,2600000,False
+Daizen Maeda,27,Celtic,7.12,JPN,11,10700000,False
+Daley Blind,35,Girona FC,7.03,NED,5,2100000,False
+Dan Ndoye,24,Bologna,7.13,SUI,5,24000000,False
+Dane Murray,21,Celtic B U21,6.93,SCO,3,145000,False
+Dani Carvajal,33,Real Madrid,7.27,ESP,3,9700000,False
+Dani Ceballos,28,Real Madrid,7.06,ESP,5,10500000,False
+Dani Olmo,27,Barcelona,7.22,ESP,4,58000000,False
+Dani Rodríguez,19,Barcelona Atlètic,7.07,ESP,1,105000,False
+Daniel Bragança,25,Sporting,7.06,POR,3,10900000,False
+Daniel Cummings,19,Celtic B U21,6.15,SCO,0,6400000,True
+Daniel Maldini,23,Atalanta,6.73,ITA,5,10600000,False
+Daniel Yáñez,18,Real Madrid Castilla,6.94,ESP,0,160000,False
+Daniil Khudyakov,21,SK Sturm Graz,6.80,RUS,3,970000,False
+Danylo Ignatenko,28,ŠK Slovan Bratislava,6.86,UKR,5,1500000,False
+Daouda Guindo,22,Red Bull Salzburg,6.91,MLI,5,3100000,False
+Darian Maleš,24,Young Boys,6.91,SUI,5,2600000,False
+Dario Marzino,28,Young Boys,6.50,SUI,3,24000,False
+Darwin Núñez,25,Liverpool,6.77,URU,4,45000000,False
+David Alaba,32,Real Madrid,6.62,AUT,5,9000000,False
+David Jiménez,21,Real Madrid,7.21,ESP,2,315000,False
+David Lelle,22,Borussia Dortmund II U23,6.84,GER,3,185000,False
+David López,35,Girona FC,6.85,ESP,5,1800000,False
+David Murar,21,ŠK Slovan Bratislava B U21,-,SVK,1,46000,False
+David Raya,29,Arsenal,7.03,ESP,5,43000000,False
+David Đurić,19,FK Crvena zvezda U19,6.85,SRB,0,155000,False
+Davide Bartesaghi,19,Milan Futuro,7.40,ITA,0,1100000,False
+Davide Calabria,28,Bologna,Not found,ITA,3,8100000,False
+Davide Frattesi,25,Inter,6.76,ITA,5,29000000,False
+Dawda Camara,22,Girona B,6.50,MTN,1,6400000,True
+Dedryck Boyata,34,Senza squadra,6.62,BEL,4,6400000,True
+Denilson Santos,18,Sporting CP B,6.75,POR,1,6400000,True
+Denzel Dumfries,29,Inter,7.12,NED,5,29000000,False
+Diego Aguado,18,Real Madrid U19,7.19,ESP,0,1100000,False
+Diego Arroyo,20,Shakhtar Donetsk,6.93,BOL,3,515000,False
+Diego Callai,20,Sporting CP B,-,BRA,4,1100000,False
+Diego Kochen,19,Barcelona Atlètic,7.11,USA,1,455000,False
+Dimitri Lavalée,28,SK Sturm Graz,6.94,BEL,5,4100000,False
+Diogo Jota,28,Liverpool,6.75,POR,5,44000000,False
+Diogo Pinto,20,Sporting,-,POR,1,515000,False
+Diogo Prioste,21,Benfica B,7.07,POR,1,1600000,False
+Divin Mubama,20,Manchester City U21,6.85,ENG,1,3700000,False
+Djomar Giersthove,20,Feyenoord U21,6.35,NED,0,6400000,True
+Dmytro Kryskiv,24,Shakhtar Donetsk,6.83,UKR,3,6700000,False
+Donyell Malen,26,Aston Villa,6.76,NED,4,27000000,False
+Dorgeles Nene,22,Red Bull Salzburg,7.23,MLI,5,8400000,False
+Douglas Luiz,27,Juventus,6.82,BRA,5,41000000,False
+Dávid Hancko,27,Feyenoord,7.13,SVK,5,33000000,False
+Désiré Doué,19,Paris Saint-Germain,7.33,FRA,2,62000000,False
+Ebenezer Annan,22,FK Crvena zvezda,7.14,GHA,5,1200000,False
+Ebrima Colley,25,Young Boys,6.85,GAM,5,1900000,False
+Edan Diop,20,AS Monaco,6.53,FRA,2,1400000,False
+Eder Militão,27,Real Madrid,7.17,BRA,3,42000000,False
+Ederson,31,Manchester City,6.98,BRA,4,23000000,False
+Edimilson Fernandes,29,Stade Brestois,6.65,SUI,5,3800000,False
+Edmund Baidoo,19,Red Bull Salzburg,7.02,GHA,2,2900000,False
+Eduardo Camavinga,22,Real Madrid,7.08,FRA,3,67000000,False
+Eduardo Felicíssimo,18,Sporting,6.76,POR,1,970000,False
+Eduardo Quaresma,23,Sporting,6.98,POR,5,14900000,False
+Eguinaldo,20,Shakhtar Donetsk,6.87,BRA,2,2900000,False
+El Chadaïlle Bitshiabu,20,RB Leipzig,6.92,FRA,2,11600000,False
+Elias Benkara,18,Borussia Dortmund U19,6.70,GER,0,6400000,True
+Elias Cobbaut,27,AC Sparta Praha,6.71,BEL,5,2600000,False
+Eliesse Ben Seghir,20,AS Monaco,7.03,MAR,1,31000000,False
+Eliot Bujupi,18,VfB Stuttgart II U21,6.90,KOS,1,485000,False
+Emanuel Aiwu,24,SK Sturm Graz,6.80,AUT,5,2900000,False
+Emerson Royal,26,Milan,6.96,BRA,5,10800000,False
+Emil Holm,25,Bologna,7.09,SWE,5,7200000,False
+Emiliano Buendia,28,Bayer 04 Leverkusen,6.82,ARG,5,16500000,False
+Emiliano Martínez,32,Aston Villa,7.14,ARG,5,24000000,False
+Emir Karic,27,SK Sturm Graz,6.65,AUT,4,720000,False
+Emre Can,31,Borussia Dortmund,6.95,GER,5,7500000,False
+Endrick,18,Real Madrid,6.79,BRA,2,42000000,False
+Enzo Millot,22,VfB Stuttgart,6.93,FRA,2,32000000,False
+Eric Dier,31,FC Bayern München,7.06,ENG,4,7200000,False
+Eric García,24,Barcelona,6.84,ESP,4,14600000,False
+Erling Haaland,24,Manchester City,7.24,NOR,5,218000000,False
+Ermal Krasniqi,26,AC Sparta Praha,6.84,KOS,5,1900000,False
+Ermedin Demirović,27,VfB Stuttgart,6.90,BIH,5,20000000,False
+Esmir Bajraktarević,20,PSV Eindhoven,6.96,BIH,2,3600000,False
+Estanis Pedrola,21,Bologna,6.81,ESP,5,1700000,False
+Ethan Mbappé,18,Lille,6.72,FRA,1,4900000,False
+Ethan Nwaneri,18,Arsenal,6.99,ENG,1,53000000,False
+Ezri Konsa,27,Aston Villa,6.94,ENG,3,37000000,False
+Fabian Bredlow,30,VfB Stuttgart,6.70,GER,5,1000000,False
+Fabián Ruiz,29,Paris Saint-Germain,7.24,ESP,5,34000000,False
+Facinet Conté,20,Young Boys,6.86,GUI,2,765000,False
+Facu González,21,Feyenoord,6.59,URU,5,4100000,False
+Fallou Faye,19,NK Kustošija,-,SEN,0,6400000,True
+Fally Mayulu,22,SK Sturm Graz,6.67,FRA,5,2900000,False
+Farid Alfa-Ruprecht,19,Manchester City U21,7.20,GER,0,6400000,True
+Federico Cassa,19,Atalanta U23,7.70,ITA,0,775000,False
+Federico Chiesa,27,Liverpool,6.75,ITA,5,16500000,False
+Federico Dimarco,27,Inter,7.24,ITA,5,58000000,False
+Federico Gatti,26,Juventus,6.99,ITA,5,24000000,False
+Felix Nmecha,24,Borussia Dortmund,7.04,GER,2,27000000,False
+Ferland Mendy,29,Real Madrid,6.75,FRA,5,19100000,False
+Fermín,22,Barcelona,6.95,ESP,3,52000000,False
+Fernando Dickes,17,RB Leipzig U19,6.20,GER,0,6400000,True
+Ferran Torres,25,Barcelona,7.09,ESP,5,30000000,False
+Ferrán,25,Barcelona,7.09,ESP,5,30000000,False
+Ferrán Jutglà,26,Club Brugge KV,7.06,ESP,5,8000000,False
+Filippo Mané,20,Borussia Dortmund,6.78,ITA,2,580000,False
+Finn Jeltsch,18,VfB Stuttgart,6.86,GER,2,10900000,False
+Florentino,25,Benfica,7.09,POR,5,21000000,False
+Folarin Balogun,23,AS Monaco,6.74,USA,5,18200000,False
+Fran García,25,Real Madrid,6.95,ESP,5,13800000,False
+Francesco Acerbi,37,Inter,7.10,ITA,5,2900000,False
+Francesco Camarda,17,Milan,6.82,ITA,0,10300000,False
+Francisco Conceição,22,Juventus,6.98,POR,5,34000000,False
+Franco Israel,25,Sporting,6.96,URU,2,5800000,False
+Fredrik Aursnes,29,Benfica,7.07,NOR,4,18700000,False
+Frenkie de Jong,28,Barcelona,6.98,NED,5,42000000,False
+Gabriel Gudmundsson,26,Lille,6.79,SWE,3,9300000,False
+Gabriel Jesus,28,Arsenal,6.98,BRA,3,41000000,False
+Gabriel Magalhães,27,Arsenal,7.19,BRA,5,70000000,False
+Gabriel Martinelli,23,Arsenal,6.98,BRA,2,51000000,False
+Gabriel Misehouy,19,Girona FC,6.73,NED,2,970000,False
+Gaoussou Diakité,19,FC Liefering,7.34,MLI,4,825000,False
+Gavi,20,Barcelona,6.89,ESP,2,72000000,False
+Geny Catamo,24,Sporting,7.07,MOZ,5,16100000,False
+George Ilenikhena,18,AS Monaco,6.72,NGR,3,13800000,False
+Geovany Quenda,18,Sporting,7.10,POR,2,49000000,False
+Gerard Martín,23,Barcelona,6.87,ESP,2,6800000,False
+Giacomo De Pieri,18,Inter U20,7.53,ITA,0,1400000,False
+Gianluigi Donnarumma,26,Paris Saint-Germain,7.02,ITA,2,36000000,False
+Giovanni Daffara,20,Juventus Next Gen U23,6.95,ITA,1,415000,False
+Giovanni Fabbian,22,Bologna,6.85,ITA,4,12100000,False
+Gonzalo García,21,Real Madrid Castilla,7.50,ESP,1,5200000,False
+Gonçalo Inácio,23,Sporting,7.22,POR,1,47000000,False
+Gonçalo Ramos,23,Paris Saint-Germain,7.05,POR,5,42000000,False
+Gregor Kobel,27,Borussia Dortmund,6.91,SUI,5,41000000,False
+Grégoire Coudert,26,Stade Brestois,6.54,FRA,3,360000,False
+Guram Kashia,37,ŠK Slovan Bratislava,6.87,GEO,5,220000,False
+Gustaf Nilsson,27,Club Brugge KV,6.98,SWE,5,6600000,False
+Gustavo Marques,23,Benfica B,7.11,BRA,5,1400000,False
+Guélor Kanga,34,FK Crvena zvezda,7.51,GAB,5,660000,False
+Hakan Çalhanoğlu,31,Inter,7.34,TUR,5,36000000,False
+Hamidou Makalou,18,Stade Brestois,6.48,MLI,1,220000,False
+Harry Kane,31,FC Bayern München,7.69,ENG,5,98000000,False
+Harvey Davies,21,Liverpool,7.23,ENG,2,470000,False
+Harvey Elliott,22,Liverpool,6.93,ENG,2,36000000,False
+Hendry Blank,20,Red Bull Salzburg,7.15,GER,2,3800000,False
+Henrikh Mkhitaryan,36,Inter,7.06,ARM,5,3800000,False
+Henrique Arreiol,19,Sporting CP B,6.77,POR,1,1100000,False
+Hidemasa Morita,30,Sporting,6.92,JPN,5,13800000,False
+Hiroki Itō,26,FC Bayern München,7.12,JPN,5,33000000,False
+Hugo Bueno,22,Feyenoord,Not found,ESP,3,8700000,False
+Hugo Félix,21,Benfica B,7.33,POR,3,1900000,False
+Hugo Magnetti,26,Stade Brestois,6.67,FRA,4,6400000,False
+Hugo de Llanos,20,Real Madrid Castilla,6.71,ESP,1,185000,False
+Hákon Haraldsson,22,Lille,7.12,ISL,3,15500000,False
+Héctor Fort,18,Barcelona,6.74,ESP,2,9700000,False
+Ian Maatsen,23,Aston Villa,6.93,NED,9,26000000,False
+Ibrahim Kanté,18,Stade Brestois U19,5.60,FRA,0,6400000,True
+Ibrahim M'Baye,25,Al-Riyadh,6.84,IRQ,5,590000,False
+Ibrahima Konaté,25,Liverpool,7.11,FRA,3,62000000,False
+Idjessi Metsoko,23,ŠK Slovan Bratislava,6.68,TOG,4,580000,False
+Igor Paixão,24,Feyenoord,7.50,BRA,3,23000000,False
+Ilias Kostis,22,Atlético Madrid B,7.05,GRE,0,450000,False
+Imanol García,24,AC Sparta Praha,6.55,ESP,5,875000,False
+In-beom Hwang,28,Feyenoord,7.29,KOR,5,10900000,False
+Irakli Azarovi,23,Shakhtar Donetsk,7.07,GEO,5,4300000,False
+Isaac Babadi,20,PSV Eindhoven,7.24,NED,2,3800000,False
+Isaac Cossier,18,LOSC Lille 2,6.30,FRA,0,6400000,True
+Isaac Mabaya,20,Liverpool U21,6.40,ZIM,0,6400000,True
+Isak Hien,26,Atalanta,6.89,SWE,5,29000000,False
+Ismaily,35,Lille,6.99,BRA,8,1500000,False
+Ismeal Kabia,19,Arsenal U21,7.10,NED,0,6400000,True
+Ivan Guteša,23,FK Crvena zvezda,7.11,SRB,5,1100000,False
+Ivan Nevistić,26,GNK Dinamo Zagreb,6.76,CRO,5,1600000,False
+Iván Fresneda,20,Sporting,6.81,ESP,3,8300000,False
+Iván Martín,26,Girona FC,6.78,ESP,5,9100000,False
+Iñaki Peña,26,Barcelona,6.90,ESP,4,9100000,False
+Iñigo Martínez,34,Barcelona,7.16,ESP,4,5200000,False
+Jack Grealish,29,Manchester City,7.21,ENG,4,36000000,False
+Jack Henry-Francis,21,Arsenal U21,6.16,IRL,1,170000,False
+Jacob Bruun Larsen,26,VfB Stuttgart,6.74,DEN,5,6500000,False
+Jacob Hödl,18,Sturm Graz II,6.73,AUT,1,430000,False
+Jacobo Ramón,20,Real Madrid Castilla,7.23,ESP,1,530000,False
+Jacques Bomo,19,Young Boys U21,6.90,SUI,0,110000,False
+Jakub Kiwior,25,Arsenal,6.85,POL,5,23000000,False
+Jakub Moder,26,Feyenoord,7.00,POL,5,10900000,False
+Jamal Musiala,22,FC Bayern München,7.54,GER,1,136000000,False
+James Forrest,33,Celtic,6.96,SCO,1,540000,False
+James McAtee,22,Manchester City,7.07,ENG,4,16200000,False
+James McConnell,20,Liverpool U21,6.78,ENG,1,2100000,False
+Jamie Gittens,20,Borussia Dortmund,7.03,ENG,1,49000000,False
+Jamie Leweling,24,VfB Stuttgart,6.93,GER,5,18400000,False
+Jan Kuchta,28,AC Sparta Praha,6.90,CZE,5,4100000,False
+Jan Oblak,32,Atlético Madrid,7.03,SLO,5,27000000,False
+Jan Oliveras,20,GNK Dinamo Zagreb,7.09,ESP,2,93000,False
+Janis Blaswich,34,Red Bull Salzburg,6.67,GER,5,930000,False
+Janis Lüthi,20,Young Boys U21,6.90,SUI,0,205000,False
+Jaouen Hadjam,22,Young Boys,6.94,ALG,3,6600000,False
+Jarzinho Malanga,18,VfB Stuttgart II U21,6.67,GER,1,1300000,False
+Jashar Dema,19,Young Boys U21,6.67,KOS,0,105000,False
+Jastin García,21,Girona B,6.55,POR,1,6400000,True
+Javi Galán,30,Atlético Madrid,6.88,ESP,5,3900000,False
+Javier Serrano,22,Atlético Madrid B,6.81,ESP,5,735000,False
+Javison Idele,18,Atalanta,6.64,ITA,0,195000,False
+Jeanuël Belocian,20,Bayer 04 Leverkusen,6.75,FRA,2,16200000,False
+Jens Odgaard,26,Bologna,6.84,DEN,5,11400000,False
+Jeremie Frimpong,24,Bayer 04 Leverkusen,6.86,NED,2,52000000,False
+Jesús Vallejo,28,Real Madrid,6.60,ESP,5,1000000,False
+Jeyland Mitchell,20,Feyenoord,6.43,CRC,5,2400000,False
+Jhon Lucumí,26,Bologna,6.98,COL,3,18500000,False
+Jimi Gower,20,Arsenal U21,6.70,ENG,0,6400000,True
+Joaquín Correa,30,Inter,6.95,ARG,5,2800000,False
+Joe Gomez,27,Liverpool,6.82,ENG,2,24000000,False
+Joeri Heerkens,19,Sparta Praha B U21,7.10,NED,2,245000,False
+Johan Bakayoko,22,PSV Eindhoven,7.09,BEL,2,33000000,False
+John McGinn,30,Aston Villa,6.96,SCO,3,17400000,False
+John Mellberg,18,Red Bull Salzburg,7.11,SWE,3,1400000,False
+Johnny Kenny,21,Celtic,7.05,IRL,5,230000,False
+Jon Gorenc Stanković,29,SK Sturm Graz,7.07,SLO,4,3700000,False
+Jonah Kusi-Asare,17,Bayern München II,6.83,SWE,2,2700000,False
+Jonas Hofmann,32,Bayer 04 Leverkusen,6.93,GER,5,3100000,False
+Jonas Martin,35,Stade Brestois,6.62,FRA,8,825000,False
+Jonathan Asp-Jensen,19,Bayern München II,7.27,DEN,1,1500000,False
+Jonathan David,25,Lille,7.20,CAN,3,43000000,False
+Jonathan Norbye,18,RB Leipzig U19,6.50,NOR,2,6400000,True
+Jordan Amavi,31,Stade Brestois,6.78,FRA,5,2200000,False
+Jordan Lotomba,26,Feyenoord,6.85,SUI,4,8200000,False
+Jordi Danso,18,Girona U19,7.70,GAM,0,6400000,True
+Jorginho,33,Arsenal,6.79,ITA,5,8700000,False
+Josep Martínez,26,Inter,7.47,ESP,5,12600000,False
+Josh Nichols,18,Arsenal U21,6.97,ENG,0,6400000,True
+Joshua Kimmich,30,FC Bayern München,7.89,GER,3,54000000,False
+Josip Mišić,30,GNK Dinamo Zagreb,7.08,CRO,5,2200000,False
+José Giménez,30,Atlético Madrid,6.98,URU,2,19200000,False
+Jota,26,Celtic,6.91,POR,10,9900000,False
+João Félix,25,Milan,7.09,POR,5,24000000,False
+João Neves,20,Paris Saint-Germain,7.33,POR,3,69000000,False
+João Palhinha,29,FC Bayern München,6.94,POR,12,37000000,False
+João Rêgo,19,Benfica,7.01,POR,2,3100000,False
+João Simões,18,Sporting,6.76,POR,2,6400000,False
+João Veloso,19,Benfica B,6.74,POR,1,485000,False
+Joël Drommel,28,PSV Eindhoven,7.29,NED,3,1800000,False
+Joël Monteiro,25,Young Boys,6.88,SUI,4,6800000,False
+Joško Gvardiol,23,Manchester City,7.27,CRO,3,69000000,False
+Juan Arango,18,Girona U19,7.00,VEN,1,6400000,True
+Juan Cabal,24,Juventus,6.78,COL,4,9300000,False
+Juan Carlos,37,Girona FC,6.80,ESP,8,95000,False
+Juan Cuadrado,36,Atalanta,7.08,COL,5,950000,False
+Juan Córdoba,21,GNK Dinamo Zagreb,6.75,COL,3,1400000,False
+Juan Miranda,25,Bologna,7.15,ESP,5,11500000,False
+Juan Musso,31,Atlético Madrid,7.25,ARG,5,4300000,False
+Juanpe,34,Girona FC,7.04,ESP,5,930000,False
+Jude Bellingham,21,Real Madrid,7.49,ENG,3,170000000,False
+Jude Bonnar,19,Celtic B U21,6.45,SCO,1,6400000,True
+Jules Koundé,26,Barcelona,7.14,FRA,4,64000000,False
+Julian Brandt,29,Borussia Dortmund,7.13,GER,2,26000000,False
+Julien Duranville,19,Borussia Dortmund,6.69,BEL,2,9200000,False
+Julien Le Cardinal,27,Stade Brestois,7.06,FRA,5,1500000,False
+Julián Alvarez,25,Atlético Madrid,7.28,ARG,5,87000000,False
+Julián Carranza,24,Feyenoord,6.78,ARG,5,5800000,False
+Juraj Kucka,38,ŠK Slovan Bratislava,6.93,SVK,4,365000,False
+Jurij Medveděv,28,ŠK Slovan Bratislava,6.81,CZE,5,350000,False
+Justin Bijlow,27,Feyenoord,7.20,NED,1,5200000,False
+Justin Bourgault,19,Stade Brestois,6.79,FRA,3,325000,False
+Justin Diehl,20,VfB Stuttgart II U21,6.58,GER,2,3300000,False
+Jérémy Doku,22,Manchester City,7.35,BEL,4,51000000,False
+Kaan Kairinen,26,AC Sparta Praha,6.92,FIN,5,6400000,False
+Kaden Braithwaite,17,Manchester City U18,7.08,ENG,0,6400000,True
+Kai Havertz,25,Arsenal,7.13,GER,3,68000000,False
+Kamory Doumbia,22,Stade Brestois,6.83,MLI,4,5400000,False
+Kang-in Lee,24,Paris Saint-Germain,7.34,KOR,4,32000000,False
+Karim Adeyemi,23,Borussia Dortmund,7.18,GER,4,41000000,False
+Karim Konaté,21,Red Bull Salzburg,7.12,CIV,4,16400000,False
+Kastriot Imeri,24,Young Boys,6.73,SUI,2,2600000,False
+Kaua Wellhington Oliveira Pinto,21,Sporting CP B,-,BRA,0,6400000,True
+Kauã Elias,19,Shakhtar Donetsk,6.58,BRA,2,11200000,False
+Kaye Furo,18,Club Brugge U19,Not found,BEL,0,6400000,True
+Ken Izekor,17,Bayer Leverkusen U19,-,GER,0,6400000,True
+Kenan Bajrič,30,ŠK Slovan Bratislava,6.93,SLO,4,1500000,False
+Kenny Lala,33,Stade Brestois,7.06,MAD,5,2300000,False
+Kerem Aktürkoğlu,26,Benfica,7.21,TUR,5,23000000,False
+Kerim Alajbegović,17,Bayer Leverkusen U19,7.30,BIH,0,6400000,True
+Kevin,33,Manchester City,7.41,BEL,4,28000000,False
+Kevin De Bruyne,33,Manchester City,7.41,BEL,4,28000000,False
+Kevin Kampl,34,RB Leipzig,6.93,SLO,5,3100000,False
+Khvicha Kvaratskhelia,24,Paris Saint-Germain,7.47,GEO,5,82000000,False
+Kieran Morrison,18,Liverpool U21,Not found,NIR,0,6400000,True
+Kingsley Coman,28,FC Bayern München,7.07,FRA,5,37000000,False
+Koke,33,Atlético Madrid,6.89,ESP,2,9200000,False
+Konrad Laimer,27,FC Bayern München,6.98,AUT,4,24000000,False
+Kortney Hause,29,Aston Villa,6.63,ENG,5,1900000,False
+Kosta Nedeljković,19,RB Leipzig,6.69,SRB,5,9300000,False
+Kristjan Asllani,23,Inter,6.90,ALB,4,15500000,False
+Krépin Diatta,26,AS Monaco,6.67,SEN,3,9700000,False
+Kylian Mbappé,26,Real Madrid,7.56,FRA,5,180000000,False
+Ladislav Krejčí,26,Girona FC,6.95,CZE,3,11200000,False
+Lamare Bogarde,21,Aston Villa,6.64,NED,3,4900000,False
+Lamine Camara,21,AS Monaco,7.16,SEN,4,21000000,False
+Lamine Yamal,17,Barcelona,7.80,ESP,1,194000000,False
+Landry Farré,18,Barcelona Atlètic,6.70,ESP,0,275000,False
+Lapo Nava,21,Milan Futuro,7.00,ITA,1,97000,False
+Lautaro Martínez,27,Inter,7.25,ARG,2,89000000,False
+Leandro Barreiro,25,Benfica,6.89,LUX,3,14500000,False
+Leandro Morgalla,20,Red Bull Salzburg,6.73,GER,2,2100000,False
+Leandro Santos,19,Benfica,6.92,POR,2,1100000,False
+Lennart Karl,17,Bayern München U19,7.00,GER,0,6400000,True
+Leon Bailey,27,Aston Villa,6.81,JAM,3,30000000,False
+Leon Belcar,23,GNK Dinamo Zagreb,7.04,CRO,3,870000,False
+Leon Goretzka,30,FC Bayern München,7.09,GER,3,20000000,False
+Leon Grgić,19,SK Sturm Graz,6.80,AUT,2,1100000,False
+Leon Klanac,18,Bayern München U19,7.35,GER,0,6400000,True
+Leon Koß,18,RB Leipzig U19,6.35,GER,0,6400000,True
+Lewin Blum,23,Young Boys,6.89,SUI,3,2900000,False
+Lewis Ferguson,25,Bologna,6.89,SCO,3,22000000,False
+Liam Bossin,28,Feyenoord,7.19,IRL,5,490000,False
+Lilian Baret,18,LOSC Lille 2,6.80,FRA,0,6400000,True
+Lloyd Kelly,26,Juventus,6.78,ENG,5,18500000,False
+Loren Aguado,22,Real Madrid Castilla,6.64,ESP,5,97000,False
+Lorenzo Anghelè,20,Juventus Next Gen U23,6.60,ITA,1,875000,False
+Lorenzo Bernasconi,21,Atalanta U23,7.43,ITA,2,410000,False
+Lorenzo De Silvestri,36,Bologna,6.78,ITA,5,360000,False
+Lorin Jetzer,19,Young Boys U21,6.50,SUI,0,54000,False
+Loris Benito,33,Young Boys,6.96,SUI,4,310000,False
+Louis Mouquet,20,Senza squadra,6.70,POR,1,6400000,True
+Luca Jaquez,21,VfB Stuttgart,6.98,SUI,2,6400000,False
+Lucas Anjos,20,Sporting CP B,6.70,POR,0,6400000,True
+Lucas Beraldo,21,Paris Saint-Germain,7.09,BRA,2,23000000,False
+Lucas Chevalier,23,Lille,7.11,FRA,4,31000000,False
+Lucas Digne,31,Aston Villa,6.94,FRA,5,11000000,False
+Lucas Hernández,29,Paris Saint-Germain,6.85,FRA,4,31000000,False
+Lucas Michal,19,AS Monaco U21,6.56,FRA,0,520000,False
+Lucas Pérez,36,PSV Eindhoven,7.32,ESP,4,485000,False
+Lucas Vázquez,33,Real Madrid,7.03,ESP,5,3800000,False
+Ludovic Ajorque,31,Stade Brestois,7.09,FRA,5,4200000,False
+Luis Díaz,28,Liverpool,7.23,COL,4,92000000,False
+Luka Ilić,25,FK Crvena zvezda,7.31,SRB,5,1900000,False
+Luka Ivanušec,26,Feyenoord,6.77,CRO,3,5400000,False
+Luka Jović,27,Milan,6.88,SRB,5,2600000,False
+Luka Modrić,39,Real Madrid,7.29,CRO,5,5500000,False
+Lukas Kačavenda,22,GNK Dinamo Zagreb,6.77,CRO,4,1900000,False
+Lukas Klostermann,28,RB Leipzig,6.87,GER,2,7700000,False
+Luke McCowan,27,Celtic,7.19,SCO,3,2100000,False
+Lukáš Haraslín,28,AC Sparta Praha,7.44,SVK,5,7700000,False
+Lukáš Hrádecký,35,Bayer 04 Leverkusen,7.01,FIN,5,2100000,False
+Lutfi Dalipi,18,Young Boys U21,6.40,SUI,0,90000,False
+Lutsharel Geertruida,24,RB Leipzig,6.74,NED,2,29000000,False
+Luuk de Jong,34,PSV Eindhoven,7.36,NED,5,2800000,False
+Lynnt Audoor,21,Club NXT U23,7.27,BEL,3,620000,False
+Mads Bidstrup,24,Red Bull Salzburg,7.00,DEN,5,8700000,False
+Maghnes Akliouche,23,AS Monaco,7.26,FRA,1,39000000,False
+Magnus Kofod Andersen,26,AC Sparta Praha,6.81,DEN,3,1200000,False
+Mahdi Camara,26,Stade Brestois,7.03,FRA,5,10800000,False
+Maik Nawrocki,24,Celtic,7.63,POL,5,1900000,False
+Mama Baldé,29,Stade Brestois,6.63,GBS,5,4300000,False
+Mamadou Coulibaly,26,Catanzaro,6.65,SEN,5,745000,False
+Mamadou Fall,33,Kasımpaşa,6.92,SEN,5,750000,False
+Mamady Diambou,22,Red Bull Salzburg,6.78,MLI,5,3300000,False
+Manuel Akanji,29,Manchester City,7.01,SUI,5,29000000,False
+Manuel Locatelli,27,Juventus,7.25,ITA,5,27000000,False
+Manuel Neuer,39,FC Bayern München,6.83,GER,2,4100000,False
+Manuel Silva,23,Benfica,6.98,POR,3,10900000,False
+Marc Aznar,19,Girona U19,7.00,ESP,0,6400000,True
+Marc Bernal,17,Barcelona,7.00,ESP,1,4900000,False
+Marc Casadó,21,Barcelona,7.04,ESP,2,29000000,False
+Marc-Aurèle Caillard,31,Lille,6.25,FRA,5,160000,False
+Marcel Lotka,23,Borussia Dortmund,7.38,POL,4,1400000,False
+Marco Asensio,29,Aston Villa,7.14,ESP,5,21000000,False
+Marco Bizot,34,Stade Brestois,7.06,NED,5,3200000,False
+Marco Brescianini,25,Atalanta,6.74,ITA,5,7400000,False
+Marco Carnesecchi,24,Atalanta,7.10,ITA,5,26000000,False
+Marcos Llorente,30,Atlético Madrid,7.20,ESP,5,29000000,False
+Mario Hermoso,29,Bayer 04 Leverkusen,6.87,ESP,4,9500000,False
+Mario Rivas,18,Real Madrid C,6.84,ESP,0,195000,False
+Marko Arnautović,36,Inter,6.81,AUT,5,3700000,False
+Marlon Gomes,21,Shakhtar Donetsk,6.96,BRA,2,10300000,False
+Marquinhos,31,Paris Saint-Germain,7.35,BRA,5,39000000,False
+Marten de Roon,34,Atalanta,7.12,NED,5,6800000,False
+Martin Baturina,22,GNK Dinamo Zagreb,7.43,CRO,3,20000000,False
+Martin Erlić,27,Bologna,6.84,CRO,5,4800000,False
+Martin Kern,19,SK Sturm Graz,6.71,HUN,1,260000,False
+Marvin Keller,23,Young Boys,7.29,SUI,5,5300000,False
+Massadio Haïdara,32,Stade Brestois,6.85,MLI,5,1900000,False
+Matej Gashtarov,18,FK Crvena zvezda U19,6.50,MKD,0,6400000,True
+Mateo Kovačić,31,Manchester City,7.21,CRO,5,24000000,False
+Matevž Dajčar,23,Atalanta U23,6.79,SLO,1,110000,False
+Matheus Nunes,26,Manchester City,7.35,POR,4,33000000,False
+Matheus Reis,30,Sporting,6.85,BRA,5,7400000,False
+Matteo Bignetti,21,SK Sturm Graz,7.35,AUT,2,260000,False
+Matteo Cocchi,18,Inter U20,7.20,ITA,0,1500000,False
+Matteo Darmian,35,Inter,6.80,ITA,5,3800000,False
+Matteo Gabbia,25,Milan,6.95,ITA,5,14400000,False
+Matteo Motta,20,Inter U20,7.14,ITA,0,105000,False
+Mattia Liberali,18,Milan U19,7.01,ITA,1,5300000,False
+Matty Cash,27,Aston Villa,6.89,POL,3,25000000,False
+Matúš Macík,31,ŠK Slovan Bratislava,6.73,SVK,5,190000,False
+Matěj Kovář,25,Bayer 04 Leverkusen,6.94,CZE,5,7200000,False
+Maurits Kjærgaard,21,Red Bull Salzburg,7.53,DEN,4,12100000,False
+Mauro Couto,19,Sporting CP B,6.60,POR,0,210000,False
+Mauro Júnior,26,PSV Eindhoven,7.09,BRA,4,12400000,False
+Max Alleyne,19,Manchester City U21,7.40,ENG,0,485000,False
+Max Johnston,21,SK Sturm Graz,6.78,SCO,5,1900000,False
+Maxim De Cuyper,24,Club Brugge KV,7.42,BEL,3,15500000,False
+Maxim Mateáš,17,ŠK Slovan Bratislava B U21,6.45,SVK,0,330000,False
+Maximilian Beier,22,Borussia Dortmund,6.84,GER,4,27000000,False
+Maximilian Mittelstädt,28,VfB Stuttgart,7.30,GER,2,22000000,False
+Maximiliano Araújo,25,Sporting,7.08,URU,4,12700000,False
+Maximiliano Caufriez,28,Red Bull Salzburg,6.68,BEL,5,1400000,False
+Maximilián Marko,20,ŠK Slovan Bratislava B U21,6.60,SVK,0,79000,False
+Mayssam Benama,20,AS Monaco U21,6.10,FRA,0,160000,False
+Michael Bresser,18,Jong PSV Eindhoven,6.76,NED,0,245000,False
+Michael Olise,23,FC Bayern München,7.83,FRA,3,77000000,False
+Michał Boledovic,22,ŠK Slovan Bratislava B U21,-,SVK,4,79000,False
+Michel Aebischer,28,Bologna,6.83,SUI,4,10500000,False
+Michele Di Gregorio,27,Juventus,Not found,ITA,5,17200000,False
+Miguel Chaiwa,21,Young Boys,6.65,ZAM,4,1200000,False
+Miguel Gutiérrez,23,Girona FC,7.06,ESP,3,27000000,False
+Mika Biereth,22,AS Monaco,7.23,DEN,5,26000000,False
+Mike Aidoo,19,Inter U20,6.92,ITA,0,390000,False
+Mike Maignan,29,Milan,7.18,FRA,3,27000000,False
+Mikel Merino,28,Arsenal,7.07,ESP,5,36000000,False
+Milson,25,FK Crvena zvezda,7.08,ANG,5,5200000,False
+Min-jae Kim,28,FC Bayern München,7.11,KOR,5,46000000,False
+Min-su Kim,19,Girona B,6.62,KOR,1,1100000,False
+Mirko Ivanić,31,FK Crvena zvezda,7.45,MNE,5,4900000,False
+Mitchel Bakker,24,Lille,Not found,NED,5,7600000,False
+Mohamed Camara,27,Young Boys,6.91,GUI,5,2200000,False
+Morten Hjulmand,25,Sporting,7.13,DEN,3,48000000,False
+Mykola Matvienko,29,Shakhtar Donetsk,7.12,UKR,4,16900000,False
+Myles Lewis-Skelly,18,Arsenal,6.76,ENG,1,30000000,False
+Nabil Bentaleb,30,Lille,6.66,ALG,4,8800000,False
+Nahuel Molina,27,Atlético Madrid,6.82,ARG,5,24000000,False
+Naim Byar,20,Bologna U19,6.87,MAR,1,535000,False
+Nathan Aké,30,Manchester City,6.88,NED,5,29000000,False
+Nathan Butler-Oyedeji,22,Arsenal U21,6.53,ENG,2,525000,False
+Nathanaël Mbuku,23,GNK Dinamo Zagreb,6.95,COD,5,1800000,False
+Neto,25,Chelsea,7.04,POR,5,48000000,False
+Newerton,19,Shakhtar Donetsk,7.02,BRA,1,2900000,False
+Ngal'ayel Mukau,20,Lille,6.80,COD,3,14200000,False
+Nico González,23,Manchester City,7.14,ESP,5,43000000,False
+Nico O'Reilly,20,Manchester City,7.19,ENG,0,7600000,False
+Nicola Bagnolini,21,Bologna,7.04,ITA,1,190000,False
+Nicolas Kühn,25,Celtic,7.38,GER,5,11300000,False
+Nicolás Capaldo,26,Red Bull Salzburg,6.97,ARG,2,5300000,False
+Nicolás González,27,Juventus,6.98,ARG,5,29000000,False
+Nicolò Barella,28,Inter,7.14,ITA,5,87000000,False
+Nicolò Cambiaghi,24,Bologna,6.97,ITA,5,6300000,False
+Nicolò Casale,27,Bologna,6.80,ITA,5,7500000,False
+Niklas Geyrhofer,25,SK Sturm Graz,6.73,AUT,2,1900000,False
+Niklas Jessen,21,Borussia Dortmund II U23,6.45,GER,4,245000,False
+Niklas Lomb,31,Bayer 04 Leverkusen,6.70,GER,5,240000,False
+Niko Galešić,24,GNK Dinamo Zagreb,7.11,CRO,4,3200000,False
+Nikola Moro,27,Bologna,6.96,CRO,5,5200000,False
+Nikola Čavlina,22,GNK Dinamo Zagreb,6.56,CRO,5,805000,False
+Nikolas Nartey,25,VfB Stuttgart,6.77,DEN,5,410000,False
+Nino Marcelli,19,ŠK Slovan Bratislava,6.85,SVK,2,4500000,False
+Noa Lang,25,PSV Eindhoven,7.35,NED,5,27000000,False
+Noah Darvich,18,Barcelona Atlètic,6.86,GER,2,1900000,False
+Nordi Mukiele,27,Bayer 04 Leverkusen,7.01,FRA,5,9500000,False
+Nordin Jackers,27,Club Brugge KV,7.15,BEL,5,930000,False
+Nuno Félix,21,Benfica B,6.78,POR,0,1600000,False
+Nuno Mendes,22,Paris Saint-Germain,7.35,POR,3,53000000,False
+Nuno Santos,30,Sporting,7.26,POR,5,9300000,False
+Odilon Kossounou,24,Atalanta,6.82,CIV,5,26000000,False
+Oliver Lukić,18,FC Liefering,7.05,CRO,3,835000,False
+Olivier Boscagli,27,PSV Eindhoven,7.43,FRA,4,21000000,False
+Omar Marmoush,26,Manchester City,7.60,EGY,5,82000000,False
+Omri Glazer,29,FK Crvena zvezda,6.66,ISR,5,4600000,False
+Orkun Kökçü,24,Benfica,7.42,TUR,2,27000000,False
+Oscar Bobb,21,Manchester City,6.87,NOR,1,24000000,False
+Oscar Gloukh,21,Red Bull Salzburg,7.37,ISR,2,23000000,False
+Otar Kiteishvili,29,SK Sturm Graz,7.31,GEO,2,4600000,False
+Ousmane Dembélé,28,Paris Saint-Germain,7.76,FRA,4,73000000,False
+Ousmane Diomande,21,Sporting,6.96,CIV,4,42000000,False
+Oussama El Azzouzi,23,Bologna,6.63,MAR,4,2100000,False
+Paris Irie,19,Stade Brestois 29 2,6.70,FRA,1,6400000,True
+Pascal Groß,33,Borussia Dortmund,7.19,GER,5,6400000,False
+Paulo Gazzaniga,33,Girona FC,6.98,ARG,5,3600000,False
+Petar Bočkaj,28,GNK Dinamo Zagreb,7.80,CRO,5,780000,False
+Peter Kiedl,21,Sturm Graz II,7.18,AUT,1,320000,False
+Peter Olayinka,29,FK Crvena zvezda,7.07,NGR,5,4600000,False
+Phil Foden,24,Manchester City,7.28,ENG,1,123000000,False
+Philipp Köhn,27,AS Monaco,6.97,SUI,5,4100000,False
+Piero Hincapié,23,Bayer 04 Leverkusen,7.14,ECU,3,46000000,False
+Pierre Kalulu,24,Juventus,6.96,FRA,4,25000000,False
+Pierre Lees-Melou,31,Stade Brestois,7.14,FRA,4,6600000,False
+Pietro Comi,19,Atalanta U23,6.77,ITA,0,260000,False
+Plamen Andreev,20,Feyenoord,7.04,BUL,2,1600000,False
+Presnel Kimpembe,29,Paris Saint-Germain,6.76,FRA,1,7600000,False
+Péter Gulácsi,35,RB Leipzig,7.15,HUN,5,2400000,False
+Qazim Laçi,29,AC Sparta Praha,7.17,ALB,5,4100000,False
+Quentin Ndjantou,17,Paris Saint-Germain U19,7.50,FRA,0,6400000,True
+Quilindschy Hartman,23,Feyenoord,6.93,NED,2,17500000,False
+Rade Krunić,31,FK Crvena zvezda,7.05,BIH,5,4700000,False
+Radosław Majecki,25,AS Monaco,6.92,POL,5,7500000,False
+Raffaele Di Gennaro,31,Inter,7.60,ITA,5,325000,False
+Rahim Ibrahim,23,ŠK Slovan Bratislava,6.85,GHA,2,580000,False
+Ramon Hendriks,23,VfB Stuttgart,6.80,NED,5,4800000,False
+Ramy Bensebaïni,30,Borussia Dortmund,7.07,ALG,5,7400000,False
+Randal Kolo Muani,26,Juventus,6.88,FRA,5,27000000,False
+Raoul Bellanova,25,Atalanta,6.98,ITA,5,21000000,False
+Raphaël Guerreiro,31,FC Bayern München,7.18,POR,5,10600000,False
+Rayane Belaid,19,Atlético Madrid B,7.06,ESP,1,470000,False
+Relja Obrić,19,Atalanta U23,6.87,SLO,0,485000,False
+Remo Freuler,33,Bologna,6.96,SUI,5,6700000,False
+Reo Hatate,27,Celtic,7.24,JPN,3,11300000,False
+Riccardo Calafiori,22,Arsenal,6.98,ITA,5,39000000,False
+Richy Ledezma,24,PSV Eindhoven,6.96,USA,4,3200000,False
+Rick Karsdorp,30,PSV Eindhoven,6.87,NED,4,4200000,False
+Rico Lewis,20,Manchester City,6.99,ENG,1,37000000,False
+Ridle Baku,27,RB Leipzig,7.02,GER,4,7500000,False
+Robert Andrich,30,Bayer 04 Leverkusen,6.89,GER,5,15500000,False
+Robert Lewandowski,36,Barcelona,7.31,POL,5,14000000,False
+Robert Mak,34,ŠK Slovan Bratislava,7.07,SVK,4,480000,False
+Robin Le Normand,28,Atlético Madrid,6.85,ESP,3,38000000,False
+Robin Olsen,35,Aston Villa,6.65,SWE,5,1600000,False
+Rodney Elongo-Yombo,23,Borussia Dortmund II U23,6.64,GER,2,485000,False
+Rodrigo De Paul,30,Atlético Madrid,7.15,ARG,5,26000000,False
+Romain Del Castillo,29,Stade Brestois,7.03,FRA,5,7300000,False
+Romain Faivre,26,Stade Brestois,6.83,FRA,5,7600000,False
+Roman Horák,20,Sparta Praha B U21,6.34,CZE,1,270000,False
+Roman Mokrovics,18,Sparta Praha B U21,6.84,CZE,2,490000,False
+Ronald Araujo,26,Barcelona,7.00,URU,4,54000000,False
+Ross Barkley,31,Aston Villa,6.83,ENG,3,7200000,False
+Ruben Loftus-Cheek,29,Milan,6.82,ENG,5,16900000,False
+Ryan Flamingo,22,PSV Eindhoven,7.18,NED,5,16900000,False
+Ryan Gravenberch,23,Liverpool,7.08,NED,4,76000000,False
+Rémy Cabella,35,Lille,7.15,FRA,4,2900000,False
+Sacha Boey,24,FC Bayern München,6.84,FRA,6,16600000,False
+Sadegh Moharrami,29,GNK Dinamo Zagreb,6.91,IRI,5,780000,False
+Saidy Janko,29,Young Boys,6.90,GAM,5,545000,False
+Salko Hamzić,18,Red Bull Salzburg,7.20,AUT,2,435000,False
+Sam Beukema,26,Bologna,7.01,NED,3,27000000,False
+Samson Baidoo,21,Red Bull Salzburg,7.09,AUT,2,6200000,False
+Samuel Chukwueze,26,Milan,Not found,NGR,3,14400000,False
+Samuel Dahl,22,Benfica,7.01,SWE,6,7300000,False
+Samuel Gomez van Hoogen,19,PSV Eindhoven U19,6.57,BEL,0,6400000,True
+Samuel Mbangula,21,Juventus,6.91,BEL,2,12700000,False
+Samy Mmaee,28,GNK Dinamo Zagreb,6.88,MAR,5,485000,False
+Sandro Kulenović,25,GNK Dinamo Zagreb,7.13,CRO,5,3900000,False
+Sandro Lauper,28,Young Boys,6.89,SUI,2,930000,False
+Santiago Castro,20,Bologna,6.91,ARG,3,32000000,False
+Santiago Giménez,24,Not found,Not found,MEX,3,38000000,False
+Saïmon Bouabré,18,AS Monaco,6.36,FRA,0,310000,False
+Scott Bain,33,Celtic,6.8,SCO,8,210000,False
+Scott Carson,39,Manchester City,6.7,ENG,15,210000,False
+Sead Kolašinac,31,Atalanta,6.95,BIH,5,10600000,False
+Seedy Jatta,22,SK Sturm Graz,6.74,NOR,3,2700000,False
+Senny Mayulu,19,Paris Saint-Germain,6.92,FRA,1,9600000,False
+Serge Gnabry,29,FC Bayern München,6.99,GER,5,26000000,False
+Sergiño Dest,24,PSV Eindhoven,6.88,USA,5,17200000,False
+Serhou Guirassy,29,Borussia Dortmund,7.30,GUI,5,42000000,False
+Serigne Diop,20,Stade Brestois 29 2,6.60,SEN,0,6400000,True
+Shandre Campbell,19,Club Brugge KV,7.21,RSA,2,960000,False
+Shiloh 't Zand,22,Feyenoord,6.88,NED,5,1200000,False
+Silas Katompa Mvumpa,26,FK Crvena zvezda,6.89,COD,4,8200000,False
+Simon Mignolet,37,Club Brugge KV,Not found,BEL,5,1500000,False
+Soriba Diaoune,17,Lille U19,6.90,FRA,0,6400000,True
+Soumaïla Coulibaly,21,Stade Brestois,6.81,FRA,5,9600000,False
+Soungoutou Magassa,21,AS Monaco,6.81,FRA,2,13000000,False
+Stefan Drljača,26,VfB Stuttgart,7.03,GER,4,305000,False
+Stefan Hierländer,34,SK Sturm Graz,6.58,AUT,3,265000,False
+Stefan de Vrij,33,Inter,7.05,NED,3,6500000,False
+Stephano Carrillo,19,Feyenoord,6.43,MEX,1,2300000,False
+Takumi Minamino,30,AS Monaco,7.02,JPN,5,14500000,False
+Takumu Kawamura,25,Red Bull Salzburg,6.70,JPN,4,1800000,False
+Tammy Abraham,27,Milan,6.88,ENG,5,13700000,False
+Tarek Buchmann,20,FC Bayern München,6.36,GER,1,515000,False
+Tay Abed,20,Jong PSV Eindhoven,7.09,ISR,1,715000,False
+Teun Koopmeiners,27,Juventus,7.00,NED,4,38000000,False
+Theo Hernández,27,Milan,7.14,FRA,5,42000000,False
+Thibaut Courtois,33,Real Madrid,7.15,BEL,5,24000000,False
+Thijs Dallinga,24,Bologna,6.78,NED,5,13100000,False
+Thijs Kraaijeveld,18,Senza squadra,6.60,NED,0,6400000,True
+Thilo Kehrer,28,AS Monaco,7.08,GER,5,15500000,False
+Thomas Beelen,23,Feyenoord,6.89,NED,3,9300000,False
+Thomas Berenbruch,19,Inter U20,7.42,ITA,0,1000000,False
+Thomas Kastanaras,22,VfB Stuttgart,Not found,GER,3,520000,False
+Thomas Lemar,29,Atlético Madrid,6.63,FRA,4,5200000,False
+Thomas Meunier,33,Lille,7.05,BEL,4,1900000,False
+Thomas Müller,35,FC Bayern München,6.99,GER,2,5500000,False
+Tidiam Gomis,18,RB Leipzig,6.72,FRA,2,3200000,False
+Tigran Barseghyan,31,ŠK Slovan Bratislava,7.59,ARM,5,1800000,False
+Timi Elšnik,27,FK Crvena zvezda,7.45,SLO,4,5400000,False
+Tochi Chukwuani,22,SK Sturm Graz,6.82,DEN,3,4300000,False
+Tomas Baković,18,GNK Dinamo Zagreb U19,6.67,CRO,0,6400000,True
+Tomi Horvat,26,SK Sturm Graz,7.16,SLO,2,3700000,False
+Tommaso Del Lungo,21,Atalanta U23,6.75,ITA,0,410000,False
+Trent Alexander-Arnold,26,Liverpool,7.20,ENG,1,77000000,False
+Trey Nyoni,17,Liverpool U21,6.70,ENG,0,3200000,False
+Tygo Land,19,PSV Eindhoven,6.88,NED,2,2800000,False
+Tyler Morton,22,Liverpool,6.98,ENG,3,8300000,False
+Tyrell Malacia,25,PSV Eindhoven,6.74,NED,4,12600000,False
+Tyrone Mings,32,Aston Villa,6.98,ENG,5,6400000,False
+Uchenna Aririerisim,21,AC Sparta Praha,7.11,NGR,5,1800000,False
+Valentin Oelz,20,FC Liefering,6.45,AUT,1,105000,False
+Valeriy Bondar,26,Shakhtar Donetsk,7.05,UKR,1,6400000,False
+Vasilije Adžić,19,Juventus,7.03,MNE,2,3300000,False
+Veljko Birmančević,27,AC Sparta Praha,6.83,SRB,5,5800000,False
+Veljko Milosavljević,17,FK Crvena zvezda,7.08,SRB,1,560000,False
+Victor Boniface,24,Bayer 04 Leverkusen,6.96,NGR,3,49000000,False
+Victor Olatunji,25,AC Sparta Praha,6.87,NGR,4,2800000,False
+Viggo Gebel,17,RB Leipzig U19,7.20,GER,0,340000,False
+Viktor Gyökeres,26,Sporting,7.94,SWE,5,70000000,False
+Vito Mannone,37,Lille,7.63,ITA,5,190000,False
+Vladyslav Krapyvtsov,19,Girona FC,6.90,UKR,1,220000,False
+Vítězslav Jaroš,23,Liverpool,6.75,CZE,5,5300000,False
+Wahid Faghir,21,VfB Stuttgart,6.77,DEN,5,1100000,False
+Waldemar Anton,28,Borussia Dortmund,7.14,GER,3,19700000,False
+Walter Benítez,32,PSV Eindhoven,6.88,ARG,3,9100000,False
+Warren Bondo,21,Milan,6.72,FRA,5,9600000,False
+Wataru Endō,32,Liverpool,6.73,JPN,5,9200000,False
+Wessel Kuhn,18,Jong PSV Eindhoven,6.80,NED,1,515000,False
+Weston McKennie,26,Juventus,6.92,USA,5,25000000,False
+Wilfried Kanga,27,GNK Dinamo Zagreb,6.67,CIV,5,3300000,False
+William Bøving,22,SK Sturm Graz,7.00,DEN,2,4600000,False
+Wisdom Amey,19,Bologna U19,6.57,ITA,1,540000,False
+Yangel Herrera,27,Girona FC,6.99,VEN,5,18700000,False
+Yann Bisseck,24,Inter,6.97,GER,5,28000000,False
+Yann Lienard,22,AS Monaco,6.70,FRA,0,205000,False
+Yannik Keitel,25,VfB Stuttgart,6.69,GER,4,3400000,False
+Yannik Lührs,21,Borussia Dortmund II U23,6.96,GER,3,570000,False
+Yegor Nazaryna,27,Shakhtar Donetsk,6.71,UKR,5,1000000,False
+Youssouf Fofana,26,Milan,6.92,FRA,4,33000000,False
+Yukhym Konoplya,25,Shakhtar Donetsk,6.81,UKR,2,7600000,False
+Yunus Musah,22,Milan,6.71,USA,3,23000000,False
+Yáser Asprilla,21,Girona FC,6.89,COL,5,19300000,False
+Zachary Athekame,20,Young Boys,6.85,SUI,4,4100000,False
+Zeki Amdouni,24,Benfica,6.91,SUI,5,16200000,False
+Zeno Debast,21,Sporting,7.07,BEL,3,27000000,False
+Álex Grimaldo,29,Bayer 04 Leverkusen,7.41,ESP,3,39000000,False
+Álex Jiménez,20,Milan,6.88,ESP,0,9100000,False
+Álvaro Cortés,20,Barcelona Atlètic,6.89,ESP,1,135000,False
+Álvaro Fernández,27,Sevilla,6.84,ESP,5,2600000,False
+Ángel Correa,30,Atlético Madrid,6.85,ARG,2,16400000,False
+Ángel Di María,37,Benfica,7.47,ARG,8,3200000,False
+Éderson,31,Manchester City,6.98,BRA,4,23000000,False
+İlkay Gündoğan,34,Manchester City,7.01,GER,5,6600000,False
+Łukasz Łakomy,24,Young Boys,7.03,POL,3,3600000,False
