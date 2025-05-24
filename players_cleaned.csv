@@ -20,7 +20,6 @@ Aleix García,27,Bayer 04 Leverkusen,7.16,ESP,5,21000000,False
 Alejandro Balde,21,Barcelona,6.93,ESP,2,66000000,False
 Alejandro Francés,22,Girona FC,6.82,ESP,2,2300000,False
 Alejandro Iturbe,21,Atlético Madrid B,7.00,ESP,1,1900000,False
-Aleksandar Andreev,19,Girona U19,-,BUL,1,6400000,True
 Aleksandar Katai,34,FK Crvena zvezda,7.55,SRB,5,830000,False
 Aleksandr Golovin,28,AS Monaco,7.10,RUS,2,24000000,False
 Alen Mustafić,25,ŠK Slovan Bratislava,6.85,BIH,5,280000,False
@@ -36,7 +35,6 @@ Alexej Maroš,20,ŠK Slovan Bratislava B U21,5.70,SVK,1,68000,False
 Alexis Mac Allister,26,Liverpool,7.23,ARG,5,99000000,False
 Alexis Olmedo,19,Barcelona Atlètic,6.93,ESP,0,195000,False
 Alexsandro Ribeiro,25,Lille,7.16,BRA,4,15500000,False
-Ali Al Musrati,20,Al Ahli Tripoli,-,LBA,1,6400000,True
 Alisson Santana,19,Shakhtar Donetsk,6.75,BRA,2,9700000,False
 Alistair Johnston,26,Celtic,7.42,CAN,4,9500000,False
 Almugera Kabar,19,Borussia Dortmund,6.67,GER,2,1000000,False
@@ -53,7 +51,6 @@ Andrea Cambiaso,25,Juventus,6.93,ITA,5,42000000,False
 Andrea Natali,17,Bayer Leverkusen U19,7.35,ITA,1,6400000,True
 Andreas Christensen,29,Barcelona,6.84,DEN,4,14400000,False
 Andrei Coubiș,21,Milan Futuro,6.80,ROU,0,105000,False
-Andrej Mikoláš,20,ŠK Slovan Bratislava B U21,-,SVK,1,26000,False
 Andrej Đurić,21,FK Crvena zvezda,6.83,MNE,5,515000,False
 Andri Baldursson,23,Bologna,7.00,ISL,5,930000,False
 Andrija Maksimović,17,FK Crvena zvezda,7.12,SRB,1,9600000,False
@@ -118,7 +115,6 @@ Bradley Burrowes,17,Aston Villa U18,6.81,ENG,0,6400000,True
 Bradley Locko,23,Stade Brestois,6.40,FRA,4,9300000,False
 Brahim Díaz,25,Real Madrid,6.91,MAR,5,47000000,False
 Brandon Mechele,32,Club Brugge KV,7.24,BEL,3,3300000,False
-Brayden Clarke,17,Arsenal U18,-,WAL,0,6400000,True
 Breel Embolo,28,AS Monaco,6.85,SUI,5,10900000,False
 Bremer,28,Juventus,7.53,BRA,3,47000000,False
 Brendan Chardonnet,30,Stade Brestois,7.05,FRA,3,6200000,False
@@ -183,7 +179,6 @@ David Alaba,32,Real Madrid,6.62,AUT,5,9000000,False
 David Jiménez,21,Real Madrid,7.21,ESP,2,315000,False
 David Lelle,22,Borussia Dortmund II U23,6.84,GER,3,185000,False
 David López,35,Girona FC,6.85,ESP,5,1800000,False
-David Murar,21,ŠK Slovan Bratislava B U21,-,SVK,1,46000,False
 David Raya,29,Arsenal,7.03,ESP,5,43000000,False
 David Đurić,19,FK Crvena zvezda U19,6.85,SRB,0,155000,False
 Davide Bartesaghi,19,Milan Futuro,7.40,ITA,0,1100000,False
@@ -195,11 +190,9 @@ Denilson Santos,18,Sporting CP B,6.75,POR,1,6400000,True
 Denzel Dumfries,29,Inter,7.12,NED,5,29000000,False
 Diego Aguado,18,Real Madrid U19,7.19,ESP,0,1100000,False
 Diego Arroyo,20,Shakhtar Donetsk,6.93,BOL,3,515000,False
-Diego Callai,20,Sporting CP B,-,BRA,4,1100000,False
 Diego Kochen,19,Barcelona Atlètic,7.11,USA,1,455000,False
 Dimitri Lavalée,28,SK Sturm Graz,6.94,BEL,5,4100000,False
 Diogo Jota,28,Liverpool,6.75,POR,5,44000000,False
-Diogo Pinto,20,Sporting,-,POR,1,515000,False
 Diogo Prioste,21,Benfica B,7.07,POR,1,1600000,False
 Divin Mubama,20,Manchester City U21,6.85,ENG,1,3700000,False
 Djomar Giersthove,20,Feyenoord U21,6.35,NED,0,6400000,True
@@ -248,7 +241,6 @@ Fabian Bredlow,30,VfB Stuttgart,6.70,GER,5,1000000,False
 Fabián Ruiz,29,Paris Saint-Germain,7.24,ESP,5,34000000,False
 Facinet Conté,20,Young Boys,6.86,GUI,2,765000,False
 Facu González,21,Feyenoord,6.59,URU,5,4100000,False
-Fallou Faye,19,NK Kustošija,-,SEN,0,6400000,True
 Fally Mayulu,22,SK Sturm Graz,6.67,FRA,5,2900000,False
 Farid Alfa-Ruprecht,19,Manchester City U21,7.20,GER,0,6400000,True
 Federico Cassa,19,Atalanta U23,7.70,ITA,0,775000,False
@@ -431,10 +423,8 @@ Kang-in Lee,24,Paris Saint-Germain,7.34,KOR,4,32000000,False
 Karim Adeyemi,23,Borussia Dortmund,7.18,GER,4,41000000,False
 Karim Konaté,21,Red Bull Salzburg,7.12,CIV,4,16400000,False
 Kastriot Imeri,24,Young Boys,6.73,SUI,2,2600000,False
-Kaua Wellhington Oliveira Pinto,21,Sporting CP B,-,BRA,0,6400000,True
 Kauã Elias,19,Shakhtar Donetsk,6.58,BRA,2,11200000,False
 Kaye Furo,18,Club Brugge U19,Not found,BEL,0,6400000,True
-Ken Izekor,17,Bayer Leverkusen U19,-,GER,0,6400000,True
 Kenan Bajrič,30,ŠK Slovan Bratislava,6.93,SLO,4,1500000,False
 Kenny Lala,33,Stade Brestois,7.06,MAD,5,2300000,False
 Kerem Aktürkoğlu,26,Benfica,7.21,TUR,5,23000000,False
@@ -568,7 +558,6 @@ Maximilián Marko,20,ŠK Slovan Bratislava B U21,6.60,SVK,0,79000,False
 Mayssam Benama,20,AS Monaco U21,6.10,FRA,0,160000,False
 Michael Bresser,18,Jong PSV Eindhoven,6.76,NED,0,245000,False
 Michael Olise,23,FC Bayern München,7.83,FRA,3,77000000,False
-Michał Boledovic,22,ŠK Slovan Bratislava B U21,-,SVK,4,79000,False
 Michel Aebischer,28,Bologna,6.83,SUI,4,10500000,False
 Michele Di Gregorio,27,Juventus,Not found,ITA,5,17200000,False
 Miguel Chaiwa,21,Young Boys,6.65,ZAM,4,1200000,False
