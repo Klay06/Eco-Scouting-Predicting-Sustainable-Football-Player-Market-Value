@@ -65,11 +65,11 @@ df['ClubTier_norm'] = 0.1 + 0.9 * df['ClubTier_norm']
 
 # ----------------------------
 # Define weights
-weight_age = 0.5
-weight_market = 0.1
-weight_transfers = 0.8
-weight_nationality = 0.7
-weight_clubtier = 0.4
+weight_age = 0.2
+weight_market = 0.04
+weight_transfers = 0.32
+weight_nationality = 0.28
+weight_clubtier = 0.16
 
 # Compute weighted InputScore
 df['InputScore'] = (
