@@ -21,9 +21,7 @@ target = 'SustainabilityScore'
 data['missing_market_value'] = data['missing_market_value'].astype(int)
 
 # Features for the model
-features = ['Age', 'Transfer History Count', 'MarketValue', 'missing_market_value', 'Age_norm',
-            'MarketValue_norm', 'Transfers_norm', 'Nationality_norm', 'ClubTier', 'ClubTier_norm',
-            'InputScore', 'ASR']
+features = ['ASR', 'Age_norm', 'MarketValue_norm', 'Transfers_norm', 'Nationality_norm', 'ClubTier_norm']
 
 # Check for missing values in these columns and drop rows with missing data
 print("\nMissing values per feature before dropping rows:")
@@ -89,5 +87,31 @@ plt.show()
 
 print("\nCorrelation matrix helps identify linear relationships between variables. "
       "Strong positive or negative correlations might help model prediction.")
+
+# --- Add this to normalize values ---
+def normalize(value, min_val, max_val):
+    return 0.1 + 0.9 * ((value - min_val) / (max_val - min_val))
+
+# --- Get the min/max from your dataset for normalization ---
+age_min, age_max = data['Age_norm'].min(), data['Age_norm'].max()
+mv_min, mv_max = data['MarketValue_norm'].min(), data['MarketValue_norm'].max()
+tr_min, tr_max = data['Transfers_norm'].min(), data['Transfers_norm'].max()
+ct_min, ct_max = data['ClubTier_norm'].min(), data['ClubTier_norm'].max()
+
+# --- New player input: use your values here ---
+new_player_raw = {
+    'ASR': 7.0,
+    'Age_norm': normalize(22, 0, 40),  # 0–40 year range (you can hardcode this normalization)
+    'MarketValue_norm': normalize(15_000_000, 0, 222_000_000),  # real market range
+    'Transfers_norm': normalize(2, 0, 15),
+    'Nationality_norm': 0.1,  # European (0.1), Non-European (1.0)
+    'ClubTier_norm': normalize(1, 1, 3)  # Tier 1 → 0.1, Tier 3 → 1
+}
+
+# --- Predict sustainability score ---
+new_player_df = pd.DataFrame([new_player_raw])
+predicted_score = rf_model.predict(new_player_df)[0]
+print(f"✅ Predicted Sustainability Score: {predicted_score:.3f}")
+
 
 
