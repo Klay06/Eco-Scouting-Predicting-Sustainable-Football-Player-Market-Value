@@ -88,30 +88,85 @@ plt.show()
 print("\nCorrelation matrix helps identify linear relationships between variables. "
       "Strong positive or negative correlations might help model prediction.")
 
-# --- Add this to normalize values ---
+import pandas as pd
+import numpy as np
+
+# --- Normalization helper ---
 def normalize(value, min_val, max_val):
     return 0.1 + 0.9 * ((value - min_val) / (max_val - min_val))
 
-# --- Get the min/max from your dataset for normalization ---
-age_min, age_max = data['Age_norm'].min(), data['Age_norm'].max()
-mv_min, mv_max = data['MarketValue_norm'].min(), data['MarketValue_norm'].max()
-tr_min, tr_max = data['Transfers_norm'].min(), data['Transfers_norm'].max()
-ct_min, ct_max = data['ClubTier_norm'].min(), data['ClubTier_norm'].max()
+# --- Manual sustainability score calculator and predictor ---
+def evaluate_player_sustainability(asr, age, market_value, transfers, nationality, club_tier, rf_model):
+    """
+    Compare manual vs ML predicted Sustainability Score for a new player.
+    
+    Parameters:
+        - asr: float, Average SofaScore Rating
+        - age: int, Age in years
+        - market_value: int, Market value in euros
+        - transfers: int, Number of transfers
+        - nationality: str, 'european' or 'non-european'
+        - club_tier: int, 1 (top), 2 (mid), or 3 (low)
+        - rf_model: trained RandomForestRegressor model
+    """
+    
+    # --- Define static min/max for normalization ---
+    age_min, age_max = 0, 40
+    mv_min, mv_max = 0, 222_000_000
+    tr_min, tr_max = 0, 15
+    tier_min, tier_max = 1, 3
+    
+    # --- Normalize inputs ---
+    age_norm = normalize(age, age_min, age_max)
+    mv_norm = normalize(market_value, mv_min, mv_max)
+    tr_norm = normalize(transfers, tr_min, tr_max)
+    nat_norm = 0.1 if nationality.lower() == 'european' else 1.0
+    club_norm = normalize(club_tier, tier_min, tier_max)
 
-# --- New player input: use your values here ---
-new_player_raw = {
-    'ASR': 7.0,
-    'Age_norm': normalize(22, 0, 40),  # 0–40 year range (you can hardcode this normalization)
-    'MarketValue_norm': normalize(15_000_000, 0, 222_000_000),  # real market range
-    'Transfers_norm': normalize(2, 0, 15),
-    'Nationality_norm': 0.1,  # European (0.1), Non-European (1.0)
-    'ClubTier_norm': normalize(1, 1, 3)  # Tier 1 → 0.1, Tier 3 → 1
-}
+    # --- Define weights (same as your input score logic) ---
+    weight_age = 0.2
+    weight_market = 0.04
+    weight_transfers = 0.32
+    weight_nationality = 0.28
+    weight_clubtier = 0.16
 
-# --- Predict sustainability score ---
-new_player_df = pd.DataFrame([new_player_raw])
-predicted_score = rf_model.predict(new_player_df)[0]
-print(f"✅ Predicted Sustainability Score: {predicted_score:.3f}")
+    # --- Calculate InputScore manually ---
+    input_score = (
+        weight_age * age_norm +
+        weight_market * mv_norm +
+        weight_transfers * tr_norm +
+        weight_nationality * nat_norm +
+        weight_clubtier * club_norm
+    )
 
+    # --- Manually compute sustainability score ---
+    manual_score = asr / input_score
 
+    # --- Prepare input for ML prediction ---
+    new_player = pd.DataFrame([{
+        'ASR': asr,
+        'Age_norm': age_norm,
+        'MarketValue_norm': mv_norm,
+        'Transfers_norm': tr_norm,
+        'Nationality_norm': nat_norm,
+        'ClubTier_norm': club_norm
+    }])
 
+    # --- Predict with trained ML model ---
+    predicted_score = rf_model.predict(new_player)[0]
+
+    # --- Print results ---
+    print("🔍 Player Info:")
+    print(f"Age: {age}, Market Value: €{market_value}, Transfers: {transfers}, Nationality: {nationality}, Club Tier: {club_tier}")
+    print("\n📈 Scores:")
+    print(f"✅ Manual Sustainability Score: {manual_score:.3f}")
+    print(f"🧠 Predicted by ML Model:       {predicted_score:.3f}")
+evaluate_player_sustainability(
+    asr=7.0,
+    age=22,
+    market_value=15_000_000,
+    transfers=2,
+    nationality='european',
+    club_tier=1,
+    rf_model=rf_model  # your trained model from earlier
+)
